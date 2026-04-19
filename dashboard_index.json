@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-04-19T17:35:31.197353",
+    "generatedAt": "2026-04-19T19:32:46.546859",
     "version": 99,
     "jobCount": 49,
     "byRegion": {
@@ -30,7 +30,7 @@
       "uiwang_jobs.json": {
         "rawCount": 15,
         "keptCount": 15,
-        "generatedAt": "2026-04-19T17:27:27.673653",
+        "generatedAt": "2026-04-19T19:32:46.166445",
         "source": "uiwang",
         "errors": [
           "https://www.uiwang.go.kr/UWKORINFO1002: 500 Server Error: Internal Server Error for url: https://www.uiwang.go.kr/UWKORINFO1002"
@@ -61,7 +61,7 @@
   },
   "jobs": [
     {
-      "id": "uiwang-6460504322690748002",
+      "id": "uiwang-3256657698091638149",
       "title": "포일어울림센터",
       "organization": "의왕시청",
       "category": "public",
@@ -77,7 +77,7 @@
       "status": "unknown"
     },
     {
-      "id": "uiwang-6810068218903159314",
+      "id": "uiwang-2712845548825477645",
       "title": "통합정보센터",
       "organization": "의왕시청",
       "category": "public",
@@ -93,7 +93,7 @@
       "status": "unknown"
     },
     {
-      "id": "uiwang-9063631955366154013",
+      "id": "uiwang-4919788635820304066",
       "title": "지방기업 규제애로 신고센터",
       "organization": "의왕시청",
       "category": "public",
@@ -109,7 +109,7 @@
       "status": "unknown"
     },
     {
-      "id": "uiwang-6812972200125522545",
+      "id": "uiwang-5856470557037870200",
       "title": "장애인 특별공급",
       "organization": "의왕시청",
       "category": "public",
@@ -125,7 +125,7 @@
       "status": "unknown"
     },
     {
-      "id": "uiwang-6880487724383949664",
+      "id": "uiwang-4895559502586914815",
       "title": "오전커뮤니티센터",
       "organization": "의왕시청",
       "category": "public",
@@ -173,7 +173,7 @@
       "description": "안양시 공공기관·협력기관 채용 게시판 기준 공공 채용 안내"
     },
     {
-      "id": "uiwang-4312110027343874405",
+      "id": "uiwang-2474310704417460120",
       "title": "복합커뮤니티센터",
       "organization": "의왕시청",
       "category": "public",
@@ -189,7 +189,7 @@
       "status": "unknown"
     },
     {
-      "id": "uiwang-7549961558840383996",
+      "id": "uiwang-8911897156436004611",
       "title": "백운커뮤니티센터",
       "organization": "의왕시청",
       "category": "public",
@@ -205,7 +205,7 @@
       "status": "unknown"
     },
     {
-      "id": "uiwang-4331277642419587889",
+      "id": "uiwang-3046769637309481936",
       "title": "동주민센터",
       "organization": "의왕시청",
       "category": "public",
@@ -221,7 +221,7 @@
       "status": "unknown"
     },
     {
-      "id": "uiwang-2720308492685298931",
+      "id": "uiwang-289372233818749917",
       "title": "노인장애인과",
       "organization": "의왕시청",
       "category": "public",
@@ -269,7 +269,7 @@
       "description": "군포시청 공공 채용 페이지 바로가기"
     },
     {
-      "id": "uiwang-7521989168324772387",
+      "id": "uiwang-8032770483288260383",
       "title": "교통정보센터",
       "organization": "의왕시청",
       "category": "public",
@@ -317,7 +317,7 @@
       "description": "과천도시공사 채용공고 페이지 바로가기"
     },
     {
-      "id": "uiwang-8137021897348164511",
+      "id": "uiwang-7613659082176194000",
       "title": "의왕시가족센터 2026년 직원채용(가족상담전문인력) 공고 첨부파일",
       "organization": "의왕시청",
       "category": "public",
@@ -333,7 +333,7 @@
       "status": "unknown"
     },
     {
-      "id": "uiwang-7931511723513217003",
+      "id": "uiwang-7652717788133537289",
       "title": "(사)대한노인회 의왕시지회 직원 채용 공고 첨부파일",
       "organization": "의왕시청",
       "category": "public",
@@ -349,7 +349,7 @@
       "status": "unknown"
     },
     {
-      "id": "uiwang-6026948379260495222",
+      "id": "uiwang-4725607054421374285",
       "title": "의왕도시공사 「기간제 근로자」 채용 공고 첨부파일",
       "organization": "의왕시청",
       "category": "public",
@@ -365,7 +365,7 @@
       "status": "unknown"
     },
     {
-      "id": "uiwang-8403877058745963412",
+      "id": "uiwang-4820432884550636304",
       "title": "의왕도시공사 상임이사 공개모집 공고 첨부파일",
       "organization": "의왕시청",
       "category": "public",
@@ -381,7 +381,7 @@
       "status": "unknown"
     },
     {
-      "id": "uiwang-2465650715237017938",
+      "id": "uiwang-1923327292581340257",
       "title": "2026년 의왕시 소상공인 맞춤지원 컨설턴트 채용공고 첨부파일",
       "organization": "의왕시청",
       "category": "public",
