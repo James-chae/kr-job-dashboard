@@ -1,17 +1,14 @@
 {
   "meta": {
-    "generatedAt": "2026-04-19T17:27:40.202111",
+    "generatedAt": "2026-04-19T10:54:24.533891",
     "source": "cabin",
     "count": 7,
     "errors": [],
-    "notes": [
-      "Foreign airline encoding cleanup applied for China/HK sources.",
-      "phase11c: sanitized broken foreign-airline text/mojibake"
-    ]
+    "notes": "Foreign airline encoding cleanup applied for China/HK sources."
   },
   "jobs": [
     {
-      "id": "cabin-205598452172315327",
+      "id": "cabin-8036325271690179311",
       "title": "2026년 상반기 신입 인턴 객실승무원 모집",
       "organization": "대한항공",
       "category": "cabin",
@@ -27,7 +24,7 @@
       "description": "대한항공 채용 | 2026년 상반기 신입 인턴 객실승무원 모집"
     },
     {
-      "id": "cabin-6179304607920771436",
+      "id": "cabin-5942786346015350334",
       "title": "2026년 신입 인턴 객실승무원 채용",
       "organization": "아시아나항공",
       "category": "cabin",
@@ -43,7 +40,7 @@
       "description": "아시아나항공 채용 | 2026년 신입 인턴 객실승무원 채용"
     },
     {
-      "id": "cabin-1996982096819549591",
+      "id": "cabin-67246684631376306",
       "title": "2026년 상반기 객실승무원 신입사원 채용(서울/부산)",
       "organization": "제주항공",
       "category": "cabin",
@@ -59,7 +56,7 @@
       "description": "제주항공 채용 | 2026년 신입 객실승무원 채용(서울/부산)"
     },
     {
-      "id": "cabin-3234358663609096535",
+      "id": "cabin-4500819380982753601",
       "title": "진에어 채용",
       "organization": "진에어",
       "category": "cabin",
@@ -72,10 +69,10 @@
       "source": "진에어 채용",
       "sourceType": "airline-career-site",
       "url": "https://jinair.recruiter.co.kr/app/jobnotice/view?jobnoticeSn=236027&systemKindCode=MRS2",
-      "description": "채용공고 내용 공고명 2026년 상반기 신입 객실승무원 채용 (서울) 접수기간 2026.01.15(목) 17:00 ~ 2026.01.22(목) 17:00 접수마감 목록"
+      "description": "채용공고 내용 공고명 2026년 상반기 신입 객실승무원 채용 (서울) 접수기간 2026.01.15(목) 17:00 ~ 2026.01.22(목) 17:00 접수마감 <p><br></p><p><br style=\"clear:both;\"></p><div style=\"text-align: center;\" align=\"center\"><br></div><p></p><div style=\"text-align"
     },
     {
-      "id": "cabin-4260284194962608897",
+      "id": "cabin-8843156358524422009",
       "title": "객실승무 (신입인턴/대구,부산)",
       "organization": "티웨이항공",
       "category": "cabin",
@@ -91,7 +88,7 @@
       "description": "티웨이항공 채용 | 객실승무(신입인턴/대구,부산)"
     },
     {
-      "id": "cabin-17319936549527026",
+      "id": "cabin-8372683247658121318",
       "title": "é¦é¡µ",
       "organization": "중국동방항공",
       "category": "cabin",
@@ -104,10 +101,10 @@
       "source": "중국동방항공 채용",
       "sourceType": "airline-career-site",
       "url": "https://job.ceair.com/",
-      "description": ""
+      "description": "ï»¿ é¦é¡µ æèé¡¹ç® Recruitment project æ ¡å­æè Campus recruitment é£è¡å­¦çæè Pilot recruitment ä¹å¡ãå®å ¨åæè Crew recruitment ç¤¾ä¼æè Social recruitment å é¨æè Internal recruitment"
     },
     {
-      "id": "cabin-6813816422644893197",
+      "id": "cabin-6397574613072826496",
       "title": "ä¸­å½åæ¹èªç©ºæèç½",
       "organization": "중국남방항공",
       "category": "cabin",
@@ -120,7 +117,7 @@
       "source": "중국남방항공 채용",
       "sourceType": "airline-career-site",
       "url": "https://job.csair.com/",
-      "description": ""
+      "description": "ä¸­å½åæ¹èªç©ºæèç½"
     }
   ]
 }

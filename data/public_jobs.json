@@ -1,12 +1,11 @@
 {
   "meta": {
-    "generatedAt": "2026-04-19T17:27:18.796112",
+    "generatedAt": "2026-04-19T10:53:46.979106",
     "source": "public-region-seed-fix",
     "count": 6,
     "notes": [
       "phase-fix: guarantee Anyang/Gunpo/Gwacheon public visibility",
-      "fast restore seed for dashboard public tab",
-      "phase-fix: normalized public jobs for dashboard build"
+      "fast restore seed for dashboard public tab"
     ],
     "errors": []
   },
