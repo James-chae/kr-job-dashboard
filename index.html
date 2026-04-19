@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+  <meta http-equiv="Pragma" content="no-cache" />
+  <meta http-equiv="Expires" content="0" />
+  <title>취업공고 대시보드</title>
+  <link rel="stylesheet" href="./web/styles.css?v=20260419-frontend-reset" />
+</head>
+<body>
+  <main class="page-shell">
+    <header class="page-header">
+      <div>
+        <h1>취업공고 대시보드</h1>
+        <p class="page-subtitle">공공 · 단기/알바 · 임상병리 · 승무원</p>
+      </div>
+      <div class="header-badge" id="datasetBadge">데이터 로딩 중</div>
+    </header>
+
+    <section class="panel panel-accent">
+      <h2>현재 보기</h2>
+      <div class="current-view-grid">
+        <div class="stat-card">
+          <div class="stat-label">탭</div>
+          <div class="stat-value" id="currentTabLabel">전체</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">지역</div>
+          <div class="stat-value" id="currentRegionLabel">전체</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">정렬</div>
+          <div class="stat-value" id="currentSortLabel">최신순</div>
+        </div>
+        <div class="stat-card">
+          <div class="stat-label">표시 건수</div>
+          <div class="stat-value" id="visibleCountLabel">0건</div>
+        </div>
+      </div>
+      <div class="chip-row" id="activeChips"></div>
+    </section>
+
+    <section class="panel">
+      <h2>실행 패널</h2>
+      <div class="button-row">
+        <button type="button" class="run-btn" data-run-tab="public" data-run-region="all">공공 실행</button>
+        <button type="button" class="run-btn" data-run-tab="public" data-run-region="의왕">의왕 실행</button>
+        <button type="button" class="run-btn" data-run-tab="public" data-run-region="안양">안양 공공 실행</button>
+        <button type="button" class="run-btn" data-run-tab="public" data-run-region="군포">군포 공공 실행</button>
+        <button type="button" class="run-btn" data-run-tab="public" data-run-region="과천">과천 공공 실행</button>
+        <button type="button" class="run-btn" data-run-tab="short" data-run-region="안양">안양 알바 실행</button>
+        <button type="button" class="run-btn" data-run-tab="clinical" data-run-region="all">임상병리 실행</button>
+        <button type="button" class="run-btn" data-run-tab="cabin" data-run-region="all">승무원 실행</button>
+      </div>
+      <div class="meta-row">
+        <div id="runStatus">idle</div>
+        <div id="countInfo">전체 0건</div>
+        <div id="metaInfo">generated: -</div>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>탭 필터</h2>
+      <div class="button-row" id="tabButtons">
+        <button type="button" data-tab="all">전체</button>
+        <button type="button" data-tab="public">공공</button>
+        <button type="button" data-tab="short">단기/알바</button>
+        <button type="button" data-tab="clinical">임상병리</button>
+        <button type="button" data-tab="cabin">승무원</button>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>지역 필터</h2>
+      <div class="button-row" id="regionButtons">
+        <button type="button" data-region="all">전체</button>
+        <button type="button" data-region="의왕">의왕</button>
+        <button type="button" data-region="안양">안양</button>
+        <button type="button" data-region="군포">군포</button>
+        <button type="button" data-region="과천">과천</button>
+        <button type="button" data-region="성남">성남</button>
+        <button type="button" data-region="수원">수원</button>
+        <button type="button" data-region="광명">광명</button>
+        <button type="button" data-region="안산">안산</button>
+        <button type="button" data-region="서울">서울</button>
+        <button type="button" data-region="경기">경기</button>
+        <button type="button" data-region="인천">인천</button>
+        <button type="button" data-region="부산">부산</button>
+        <button type="button" data-region="서울/경기">서울/경기</button>
+        <button type="button" data-region="홍콩">홍콩</button>
+        <button type="button" data-region="중국">중국</button>
+        <button type="button" data-region="싱가포르">싱가포르</button>
+        <button type="button" data-region="두바이">두바이</button>
+        <button type="button" data-region="도하">도하</button>
+      </div>
+    </section>
+
+    <section class="panel">
+      <h2>검색 / 정렬</h2>
+      <div class="search-row">
+        <input id="keywordInput" type="text" placeholder="제목, 기관명, 지역 검색" />
+        <select id="sortSelect">
+          <option value="latest">최신순</option>
+          <option value="deadline">마감임박순</option>
+        </select>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="list-header">
+        <h2>공고 목록</h2>
+        <div class="list-summary" id="listSummary">전체 / 전체 / 최신순</div>
+      </div>
+      <div id="jobList" class="job-list">불러오는 중...</div>
+    </section>
+  </main>
+
+  <script type="module" src="./web/app.js?v=20260419-frontend-reset"></script>
+</body>
+</html>
