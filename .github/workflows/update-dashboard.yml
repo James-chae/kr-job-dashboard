@@ -1,0 +1,120 @@
+name: Update Job Dashboard
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 매일 07:35 KST = 전일 22:35 UTC
+    - cron: "35 22 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: kr-job-dashboard-update
+  cancel-in-progress: false
+
+jobs:
+  update-dashboard:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        shell: bash
+        run: |
+          set -e
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+
+      - name: Run dashboard generation scripts safely
+        shell: bash
+        run: |
+          set -e
+
+          run_if_exists () {
+            local target="$1"
+            if [ -f "$target" ]; then
+              echo "Running: $target"
+              python "$target"
+              return 0
+            fi
+            return 1
+          }
+
+          echo "Project root:"
+          pwd
+          echo "Files:"
+          ls -la
+          echo "Scripts:"
+          ls -la scripts || true
+
+          # 1) 데이터 수집/생성 계열
+          run_if_exists "scripts/fetch_all.py" || true
+          run_if_exists "scripts/fetch_jobs.py" || true
+          run_if_exists "scripts/fetch_public_jobs.py" || true
+          run_if_exists "scripts/fetch_uiwang_jobs.py" || true
+          run_if_exists "scripts/fetch_anyang_jobs.py" || true
+          run_if_exists "scripts/fetch_gunpo_jobs.py" || true
+          run_if_exists "scripts/fetch_gwacheon_jobs.py" || true
+          run_if_exists "scripts/fetch_clinical_jobs.py" || true
+          run_if_exists "scripts/fetch_cabin_jobs.py" || true
+          run_if_exists "scripts/fetch_short_jobs.py" || true
+
+          # 2) dashboard_index.json 재생성 계열
+          run_if_exists "scripts/build_dashboard_index.py" || true
+          run_if_exists "scripts/generate_dashboard_index.py" || true
+          run_if_exists "scripts/build_index.py" || true
+
+          # 3) 혹시 단일 엔트리 스크립트가 따로 있는 경우 대비
+          if [ ! -f "dashboard_index.json" ]; then
+            run_if_exists "scripts/build_dashboard.py" || true
+          fi
+
+          if [ ! -f "dashboard_index.json" ]; then
+            echo "ERROR: dashboard_index.json was not generated."
+            exit 1
+          fi
+
+          python -m json.tool dashboard_index.json > /dev/null
+          echo "dashboard_index.json validation passed."
+
+      - name: Show changed files
+        shell: bash
+        run: |
+          git status --short
+
+      - name: Commit and push only when tracked files changed
+        shell: bash
+        run: |
+          set -e
+
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No changes detected."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          # 기존 추적 파일의 수정사항만 반영
+          git add -u
+
+          if git diff --cached --quiet; then
+            echo "No tracked file changes to commit."
+            exit 0
+          fi
+
+          git commit -m "chore: daily dashboard update"
+          git push
