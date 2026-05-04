@@ -1,16 +1,16 @@
 {
   "meta": {
-    "generatedAt": "2026-05-03T23:25:58.850796",
+    "generatedAt": "2026-05-04T23:30:26.558705",
     "source": "anyang-living-area-v3",
-    "count": 22,
+    "count": 19,
     "listUrls": [
       "https://www.saramin.co.kr/zf_user/jobs/list/domestic?searchword=%EC%95%88%EC%96%91&loc_cd=101000,101020,101030",
       "https://www.alba.co.kr/job/DetailList.asp?area=13110",
       "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C"
     ],
     "errors": [],
-    "rawCount": 22,
-    "keptCount": 22,
+    "rawCount": 19,
+    "keptCount": 19,
     "notes": [
       "living-area focused",
       "job-board noise cleanup",
@@ -19,82 +19,37 @@
   },
   "jobs": [
     {
-      "id": "anyang-3400203568624030035",
-      "title": "( 안양 /평촌)스쿨버스 어린이 통학버스 기사님 / 동승자님 채용",
-      "organization": "안양",
-      "category": "short",
-      "track": "short",
-      "region": "안양",
-      "employmentType": "단기/알바",
-      "postedAt": "",
-      "deadline": "",
-      "source": "사람인 안양",
-      "sourceType": "job-board",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=53535456",
-      "description": "스크랩"
-    },
-    {
-      "id": "anyang-2681140860142827893",
-      "title": "안양 핫한기업 / 상여금有 [정수기 조립-검사,포장,출고] 대규모 채용",
-      "organization": "안양",
-      "category": "short",
-      "track": "short",
-      "region": "안양",
-      "employmentType": "단기/알바",
-      "postedAt": "",
-      "deadline": "",
-      "source": "사람인 안양",
-      "sourceType": "job-board",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=53763545",
-      "description": "스크랩"
-    },
-    {
-      "id": "anyang-201801492486461465",
-      "title": "㈜가비아",
-      "organization": "2026년 가비아 공공사업 영업직 경력직 수시채용",
-      "category": "short",
-      "track": "short",
-      "region": "과천",
-      "employmentType": "단기/알바",
-      "postedAt": "",
-      "deadline": "",
-      "source": "잡코리아 안양",
-      "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49000794?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=1&sc=551",
-      "description": "스크랩 2026년 가비아 공공사업 영업직 경력직 수시채용 경기 과천시 솔루션·SI·CRM·ERP, IT·기술영업 홈페이지 지원 경력3년↑"
-    },
-    {
-      "id": "anyang-2268061845673810727",
+      "id": "anyang-5138201303205960018",
       "title": "쿠팡로지스틱스서비스",
       "organization": "[연최대4530만&참석비]쿠팡친구(배송사원) 전국 채용,연차15일,주5일",
       "category": "short",
       "track": "short",
-      "region": "과천",
+      "region": "의왕",
       "employmentType": "단기/알바",
       "postedAt": "",
       "deadline": "",
       "source": "잡코리아 안양",
       "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48927895?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=2&sc=551",
-      "description": "스크랩 [연최대4530만&참석비]쿠팡친구(배송사원) 전국 채용,연차15일,주5일 경기 과천시 물류·운송·배송, 납품·배송기사 홈페이지 지원 경력무관 • 연차제도"
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48903834?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=1&sc=551",
+      "description": "스크랩 [연최대4530만&참석비]쿠팡친구(배송사원) 전국 채용,연차15일,주5일 경기 의왕시 물류·운송·배송, 납품·배송기사 홈페이지 지원 경력무관 • 연차제도"
     },
     {
-      "id": "anyang-7469894285026888858",
-      "title": "씨앤아이시스템",
-      "organization": "머신 비전 필드 엔지니어 경력직 채용",
+      "id": "anyang-3067423660259696076",
+      "title": "다자연산 회 쎄꼬시 1번지",
+      "organization": "[주 5 9시간] 다자연에서 새롭게 함께 시작할 팀원 모집합니다.",
       "category": "short",
       "track": "short",
-      "region": "과천",
+      "region": "의왕",
       "employmentType": "단기/알바",
       "postedAt": "",
       "deadline": "",
       "source": "잡코리아 안양",
       "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48921268?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=2&sc=552",
-      "description": "스크랩 머신 비전 필드 엔지니어 경력직 채용 경기 과천시 컴퓨터·하드웨어·장비, 필드엔지니어 연봉 3,300~3,500만원 즉시 지원 경력2년↑"
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49011993?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=1&sc=552",
+      "description": "스크랩 [주 5 9시간] 다자연에서 새롭게 함께 시작할 팀원 모집합니다. 경기 의왕시 음식료·외식·프랜차이즈, 요리사 월급 300만원~ 즉시 지원 경력무관"
     },
     {
-      "id": "anyang-1720895316849128628",
+      "id": "anyang-6068614823218827089",
       "title": "주식회사 넥스트에어로스페이스",
       "organization": "[넥스트에어로스페이스]회계·구매 담당자 모집",
       "category": "short",
@@ -109,7 +64,7 @@
       "description": "스크랩 [넥스트에어로스페이스]회계·구매 담당자 모집 경기 군포시 외 5 자동차·조선·철강·항공, 회계담당자, 세무담당자, 재무담당자 즉시 지원 경력6년↑"
     },
     {
-      "id": "anyang-3540277712340442827",
+      "id": "anyang-4603790854998446057",
       "title": "[과천/안양/의왕/군포 등]각 지역 택배배송기사 채용공고",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -124,7 +79,7 @@
       "description": "[과천/안양/의왕/군포 등]각 지역 택배배송기사 채용공고"
     },
     {
-      "id": "anyang-5576213262859358745",
+      "id": "anyang-8946059475042776586",
       "title": "비에스글로벌로지스",
       "organization": "[과천/안양/의왕/군포 등]각 지역 택배배송기사 채용공고",
       "category": "short",
@@ -139,7 +94,7 @@
       "description": "스크랩 [과천/안양/의왕/군포 등]각 지역 택배배송기사 채용공고 경기 안양시 외 4 물류·운송·배송, 납품·배송기사, 생산직종사자, 건축기사 월급 470만원~ 즉시 지원 경력무관"
     },
     {
-      "id": "anyang-1211612312133155219",
+      "id": "anyang-7324986486339968653",
       "title": "(안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -154,7 +109,7 @@
       "description": "(안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X"
     },
     {
-      "id": "anyang-1135997041037170765",
+      "id": "anyang-6726362959633767908",
       "title": "㈜극동글로비스",
       "organization": "(안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X",
       "category": "short",
@@ -169,7 +124,7 @@
       "description": "스크랩 (안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X 경기 군포시 외 5 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관 • 공휴일 휴무"
     },
     {
-      "id": "anyang-2462007247171422929",
+      "id": "anyang-4385088343253146644",
       "title": "(안양,군포,과천,의왕,광명)경기물류 운송기사 채용/운전만/주5일/초보,1종",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -184,7 +139,7 @@
       "description": "(안양,군포,과천,의왕,광명)경기물류 운송기사 채용/운전만/주5일/초보,1종"
     },
     {
-      "id": "anyang-3974571236071174753",
+      "id": "anyang-1194600163748910774",
       "title": "㈜극동글로비스",
       "organization": "(안양,군포,과천,의왕,광명)경기물류 운송기사 채용/운전만/주5일/초보,1종",
       "category": "short",
@@ -199,7 +154,7 @@
       "description": "스크랩 (안양,군포,과천,의왕,광명)경기물류 운송기사 채용/운전만/주5일/초보,1종 경기 의왕시 외 5 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관 • 화물복지카드"
     },
     {
-      "id": "anyang-7259828700731085446",
+      "id": "anyang-7173326351958805935",
       "title": "[의왕,군포,안양,광명,과천] 운전기사님 모집/주5일/1종,초보/운전만/비용X",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -214,7 +169,7 @@
       "description": "[의왕,군포,안양,광명,과천] 운전기사님 모집/주5일/1종,초보/운전만/비용X"
     },
     {
-      "id": "anyang-4525292787042131845",
+      "id": "anyang-826274023156550535",
       "title": "극동통상㈜",
       "organization": "[의왕,군포,안양,광명,과천] 운전기사님 모집/주5일/1종,초보/운전만/비용X",
       "category": "short",
@@ -229,7 +184,7 @@
       "description": "스크랩 [의왕,군포,안양,광명,과천] 운전기사님 모집/주5일/1종,초보/운전만/비용X 경기 의왕시 외 5 물류·운송·배송, 납품·배송기사, 화물·중장비기사, 버스기사 월급 300~800만원 즉시 지원 경력무관 • 공휴일 휴무"
     },
     {
-      "id": "anyang-5420337338481615698",
+      "id": "anyang-1129260958896804912",
       "title": "(군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -244,7 +199,7 @@
       "description": "(군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X"
     },
     {
-      "id": "anyang-6556219562227397646",
+      "id": "anyang-4834984329502396949",
       "title": "극동통상㈜",
       "organization": "(군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X",
       "category": "short",
@@ -259,7 +214,7 @@
       "description": "스크랩 (군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X 경기 의왕시 외 5 물류·운송·배송, 납품·배송기사, 화물·중장비기사, 버스기사 월급 300~800만원 즉시 지원 경력무관 • 화물복지카드 , 공휴일 휴무"
     },
     {
-      "id": "anyang-3841119404974181591",
+      "id": "anyang-8883787454950677907",
       "title": "경기 안양 지역 통신공사 신호수 모집",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -274,7 +229,7 @@
       "description": "경기 안양 지역 통신공사 신호수 모집"
     },
     {
-      "id": "anyang-4230343088429043076",
+      "id": "anyang-8546014385855079421",
       "title": "㈜뉴젠스",
       "organization": "경기 안양 지역 통신공사 신호수 모집",
       "category": "short",
@@ -289,7 +244,7 @@
       "description": "스크랩 경기 안양 지역 통신공사 신호수 모집 경기 안양시 외 4 네트워크·통신서비스, 현장보조 연봉 ~2,590만원 즉시 지원 경력무관"
     },
     {
-      "id": "anyang-2895968922247291396",
+      "id": "anyang-940555083539568753",
       "title": "KWE 군포센터 자재관리 사원 채용/주5일/ 실내근무",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -304,7 +259,7 @@
       "description": "KWE 군포센터 자재관리 사원 채용/주5일/ 실내근무"
     },
     {
-      "id": "anyang-4033068867536565156",
+      "id": "anyang-7284721373560782259",
       "title": "㈜멘토커리어",
       "organization": "KWE 군포센터 자재관리 사원 채용/주5일/ 실내근무",
       "category": "short",
@@ -319,7 +274,7 @@
       "description": "스크랩 KWE 군포센터 자재관리 사원 채용/주5일/ 실내근무 경기 군포시 물류·운송·배송, 물류관리자, 자재관리자, 유통관리자 월급 270~290만원 즉시 지원 경력무관 • 명절선물/명절상여 지원 , 근무복 지원 , 4대보험 , 퇴직연금 , 연차수당"
     },
     {
-      "id": "anyang-6247447641904570616",
+      "id": "anyang-6344223259645523903",
       "title": "안양/군포/의왕/과천 산후도우미,베이비시터 모집",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -334,7 +289,7 @@
       "description": "안양/군포/의왕/과천 산후도우미,베이비시터 모집"
     },
     {
-      "id": "anyang-5539399478776170208",
+      "id": "anyang-2756739517630595737",
       "title": "(No.1)아이맘케어안양지사",
       "organization": "안양/군포/의왕/과천 산후도우미,베이비시터 모집",
       "category": "short",
