@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-05-12T23:39:57.508569",
+    "generatedAt": "2026-05-13T23:39:42.344879",
     "version": 99,
-    "jobCount": 67,
+    "jobCount": 70,
     "byRegion": {
       "의왕": 15,
       "안양": 13,
@@ -10,51 +10,51 @@
       "과천": 2,
       "서울": 8,
       "서울/경기": 18,
-      "경기": 5,
+      "경기": 8,
       "부산": 1,
       "중국": 2
     },
     "byTrack": {
       "public": 21,
       "cabin": 7,
-      "clinical": 27,
+      "clinical": 30,
       "short": 12
     },
     "sourceStats": {
       "public_jobs.json": {
         "rawCount": 6,
         "keptCount": 6,
-        "generatedAt": "2026-05-12T23:39:16.822715",
+        "generatedAt": "2026-05-13T23:39:08.604667",
         "source": "public-region-seed-fix",
         "errors": []
       },
       "uiwang_jobs.json": {
         "rawCount": 15,
         "keptCount": 15,
-        "generatedAt": "2026-05-12T23:39:29.794721",
+        "generatedAt": "2026-05-13T23:39:19.385054",
         "source": "uiwang",
         "errors": [
           "https://www.uiwang.go.kr/UWKORINFO1002: 500 Server Error: Internal Server Error for url: https://www.uiwang.go.kr/UWKORINFO1002"
         ]
       },
       "anyang_jobs.json": {
-        "rawCount": 24,
+        "rawCount": 25,
         "keptCount": 12,
-        "generatedAt": "2026-05-12T23:39:37.387691",
+        "generatedAt": "2026-05-13T23:39:24.243564",
         "source": "anyang-living-area-v3",
         "errors": []
       },
       "clinical_jobs.json": {
-        "rawCount": 27,
-        "keptCount": 27,
-        "generatedAt": "2026-05-12T23:39:45.677677",
+        "rawCount": 30,
+        "keptCount": 30,
+        "generatedAt": "2026-05-13T23:39:30.498091",
         "source": "clinical",
         "errors": []
       },
       "cabin_jobs.json": {
         "rawCount": 7,
         "keptCount": 7,
-        "generatedAt": "2026-05-12T23:39:57.444586",
+        "generatedAt": "2026-05-13T23:39:42.285683",
         "source": "cabin",
         "errors": []
       }
@@ -62,179 +62,163 @@
   },
   "jobs": [
     {
-      "id": "uiwang-828097501504008132",
+      "id": "uiwang-5417432509197183742",
       "title": "포일어울림센터",
       "organization": "의왕시청",
       "category": "public",
       "track": "public",
       "region": "의왕",
       "employmentType": "공공/기관",
-      "postedAt": "2026-05-13",
+      "postedAt": "2026-05-14",
       "deadline": "",
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/poilcommunityintro",
-      "description": "포일어울림센터 시설개요 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창...",
+      "description": "포일어울림센터 시설개요 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-4472068509478104918",
+      "id": "uiwang-2747728057670429757",
       "title": "통합정보센터",
       "organization": "의왕시청",
       "category": "public",
       "track": "public",
       "region": "의왕",
       "employmentType": "공공/기관",
-      "postedAt": "2026-05-13",
+      "postedAt": "2026-05-14",
       "deadline": "",
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/UWKORSAFE0701",
-      "description": "통합정보센터 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구 민원신청...",
+      "description": "통합정보센터 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구 민원신청...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-2196099050927388147",
+      "id": "uiwang-7580100014770911683",
       "title": "지방기업 규제애로 신고센터",
       "organization": "의왕시청",
       "category": "public",
       "track": "public",
       "region": "의왕",
       "employmentType": "공공/기관",
-      "postedAt": "2026-05-13",
+      "postedAt": "2026-05-14",
       "deadline": "",
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/UWKORCOM0703",
-      "description": "지방기업 규제애로 신고센터 목록 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여...",
+      "description": "지방기업 규제애로 신고센터 목록 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-3625393259629908800",
+      "id": "uiwang-3515930942545845509",
       "title": "장애인 특별공급",
       "organization": "의왕시청",
       "category": "public",
       "track": "public",
       "region": "의왕",
       "employmentType": "공공/기관",
-      "postedAt": "2026-05-13",
+      "postedAt": "2026-05-14",
       "deadline": "",
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/specialhousing",
-      "description": "장애인 특별공급 목록 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
+      "description": "장애인 특별공급 목록 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-7877564451590262393",
+      "id": "uiwang-881106378952090682",
       "title": "오전커뮤니티센터",
       "organization": "의왕시청",
       "category": "public",
       "track": "public",
       "region": "의왕",
       "employmentType": "공공/기관",
-      "postedAt": "2026-05-13",
+      "postedAt": "2026-05-14",
       "deadline": "",
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/ojeoncommunityintro",
-      "description": "시설개요 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구 민원신청 나...",
+      "description": "시설개요 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구 민원신청 나...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-8674969811405086796",
+      "id": "uiwang-7781318282770606205",
       "title": "복합커뮤니티센터",
       "organization": "의왕시청",
       "category": "public",
       "track": "public",
       "region": "의왕",
       "employmentType": "공공/기관",
-      "postedAt": "2026-05-13",
+      "postedAt": "2026-05-14",
       "deadline": "",
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/poilcommunityintro",
-      "description": "포일어울림센터 시설개요 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창...",
+      "description": "포일어울림센터 시설개요 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-5646221229792029780",
+      "id": "uiwang-3262308800916881087",
       "title": "백운커뮤니티센터",
       "organization": "의왕시청",
       "category": "public",
       "track": "public",
       "region": "의왕",
       "employmentType": "공공/기관",
-      "postedAt": "2026-05-13",
+      "postedAt": "2026-05-14",
       "deadline": "",
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/baeguncommunityintro",
-      "description": "백운커뮤니티센터 시설개요 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원...",
+      "description": "백운커뮤니티센터 시설개요 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-4033482495903040135",
+      "id": "uiwang-7552238488915801549",
       "title": "동주민센터",
       "organization": "의왕시청",
       "category": "public",
       "track": "public",
       "region": "의왕",
       "employmentType": "공공/기관",
-      "postedAt": "2026-05-13",
+      "postedAt": "2026-05-14",
       "deadline": "",
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/UWKORINFO1801#this",
-      "description": "채용공고 목록 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구 민원신...",
+      "description": "채용공고 목록 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구 민원신...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-8929954104839966862",
+      "id": "uiwang-891991266890775654",
       "title": "노인장애인과",
       "organization": "의왕시청",
       "category": "public",
       "track": "public",
       "region": "의왕",
       "employmentType": "공공/기관",
-      "postedAt": "2026-05-13",
+      "postedAt": "2026-05-14",
       "deadline": "",
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/UWKORINTRO0301/4030203",
-      "description": "조직 및 전화번호 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구 민...",
+      "description": "조직 및 전화번호 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구 민...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-2987386206103720784",
+      "id": "uiwang-1541084611379236466",
       "title": "교통정보센터",
       "organization": "의왕시청",
       "category": "public",
       "track": "public",
       "region": "의왕",
       "employmentType": "공공/기관",
-      "postedAt": "2026-05-13",
+      "postedAt": "2026-05-14",
       "deadline": "",
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/UWKORTRA0205",
-      "description": "교통정보센터 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구 민원신청...",
-      "status": "unknown"
-    },
-    {
-      "id": "uiwang-5517750809325597706",
-      "title": "의왕시가족센터 2026년 직원채용(가족상담전문인력) 연장 공고 첨부파일",
-      "organization": "의왕시청",
-      "category": "public",
-      "track": "public",
-      "region": "의왕",
-      "employmentType": "공공/기관",
-      "postedAt": "2026-05-04",
-      "deadline": "",
-      "source": "의왕시청",
-      "sourceType": "municipal",
-      "url": "https://www.uiwang.go.kr/UWKORINFO1001/7000254/?curPage=1",
-      "description": "기타 채용공고 내용 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
+      "description": "교통정보센터 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구 민원신청...",
       "status": "unknown"
     },
     {
@@ -334,7 +318,7 @@
       "description": "과천도시공사 채용공고 페이지 바로가기"
     },
     {
-      "id": "uiwang-8157297218659540918",
+      "id": "uiwang-7238439903367422111",
       "title": "(사)대한노인회 의왕시지회 직원 채용 공고 첨부파일",
       "organization": "의왕시청",
       "category": "public",
@@ -346,11 +330,11 @@
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/UWKORINFO1001/6999608/?curPage=1",
-      "description": "기타 채용공고 내용 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
+      "description": "기타 채용공고 내용 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-674479272317070593",
+      "id": "uiwang-8067345719847673750",
       "title": "의왕도시공사 「기간제 근로자」 채용 공고 첨부파일",
       "organization": "의왕시청",
       "category": "public",
@@ -362,11 +346,11 @@
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/UWKORINFO1001/6998918/?curPage=1",
-      "description": "기타 채용공고 내용 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
+      "description": "기타 채용공고 내용 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-6842606014525622451",
+      "id": "uiwang-6855341080652104919",
       "title": "의왕도시공사 상임이사 공개모집 공고 첨부파일",
       "organization": "의왕시청",
       "category": "public",
@@ -378,11 +362,11 @@
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/UWKORINFO1001/6998177/?curPage=1",
-      "description": "기타 채용공고 내용 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
+      "description": "기타 채용공고 내용 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
       "status": "unknown"
     },
     {
-      "id": "uiwang-2475445701606991517",
+      "id": "uiwang-4773437801472422589",
       "title": "2026년 의왕시 소상공인 맞춤지원 컨설턴트 채용공고 첨부파일",
       "organization": "의왕시청",
       "category": "public",
@@ -394,11 +378,27 @@
       "source": "의왕시청",
       "sourceType": "municipal",
       "url": "https://www.uiwang.go.kr/UWKORINFO1001/6998009/?curPage=1",
-      "description": "기타 채용공고 내용 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-13 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
+      "description": "기타 채용공고 내용 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
       "status": "unknown"
     },
     {
-      "id": "cabin-5865283747378310093",
+      "id": "uiwang-6947075295460595808",
+      "title": "의왕시장애인체육회 사무국 직원(행정) 채용 공고 첨부파일",
+      "organization": "의왕시청",
+      "category": "public",
+      "track": "public",
+      "region": "의왕",
+      "employmentType": "공공/기관",
+      "postedAt": "2026-02-02",
+      "deadline": "",
+      "source": "의왕시청",
+      "sourceType": "municipal",
+      "url": "https://www.uiwang.go.kr/UWKORINFO1001/6997513/?curPage=1",
+      "description": "기타 채용공고 내용 | 의왕시 본문 바로가기 의왕시의회 문화관광 통합예약 불러오는중 Language English Chinese Japanese 이동 2026-05-14 불러오는중 미세먼지 : - 초미세먼지 : - 메뉴 전체보기 소통참여 전자민원창구...",
+      "status": "unknown"
+    },
+    {
+      "id": "cabin-2060612193278487312",
       "title": "진에어 채용",
       "organization": "진에어",
       "category": "cabin",
@@ -414,7 +414,7 @@
       "description": "채용공고 내용 공고명 2026년 상반기 신입 객실승무원 채용 (서울) 접수기간 2026.01.15(목) 17:00 ~ 2026.01.22(목) 17:00 접수마감 <p><br></p><p><br style=\"clear:both;\"></p><div style=\"text-align: center;\" align=\"center\"><br></div><p></p><div style=\"text-align"
     },
     {
-      "id": "clinical-3133683633180239945",
+      "id": "clinical-3097393762927813453",
       "title": "척신경과 임상병리사 정규직 채용 추가모집 (신입경력무관) 대전 중구 경력무관 초대졸↑ 척신경과의원 기업이미지 ~06.14(일)",
       "organization": "사람인",
       "category": "clinical",
@@ -430,7 +430,7 @@
       "description": "척신경과 임상병리사 정규직 채용 추가모집 (신입경력무관) 대전 중구 경력무관 초대졸↑ 척신경과의원 기업이미지 ~06.14(일) 스크랩 입사지원"
     },
     {
-      "id": "clinical-2092888142328633545",
+      "id": "clinical-6561065990498145686",
       "title": "조은오산병원(종합병원) 특수검진 ,일반검진 임상병리사 채용 경기 오산시 경력1년↑ 초대졸↑ 조은오산병원 기업이미지 ~07.10(금)",
       "organization": "사람인",
       "category": "clinical",
@@ -446,7 +446,7 @@
       "description": "조은오산병원(종합병원) 특수검진 ,일반검진 임상병리사 채용 경기 오산시 경력1년↑ 초대졸↑ 조은오산병원 기업이미지 ~07.10(금) 스크랩 입사지원"
     },
     {
-      "id": "clinical-6813014541064597881",
+      "id": "clinical-6183377218036561977",
       "title": "임상병리사 채용 정규직 (인원충원2명,신졸,경력1-2년차) 대구 수성구 경력무관 초대졸↑ 오희종신경과 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -462,7 +462,7 @@
       "description": "임상병리사 채용 정규직 (인원충원2명,신졸,경력1-2년차) 대구 수성구 경력무관 초대졸↑ 오희종신경과 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-2871546501656337532",
+      "id": "clinical-1145295865684909094",
       "title": "임상병리사 채용 공고 서울 금천구 식비 지원 (주)알앤엘재생의학연구소 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -478,8 +478,8 @@
       "description": "임상병리사 채용 공고 서울 금천구 식비 지원 (주)알앤엘재생의학연구소 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-5099519947938396435",
-      "title": "임상병리사 정규직 모집 대구 수성구 경력1년↑ 초대졸↑ 강미정연합내과의원 기업이미지 D-4",
+      "id": "clinical-3061334543172019387",
+      "title": "임상병리사 정규직 모집 대구 수성구 경력1년↑ 초대졸↑ 강미정연합내과의원 기업이미지 D-3",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -491,10 +491,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53653453&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "임상병리사 정규직 모집 대구 수성구 경력1년↑ 초대졸↑ 강미정연합내과의원 기업이미지 D-4 스크랩 입사지원"
+      "description": "임상병리사 정규직 모집 대구 수성구 경력1년↑ 초대졸↑ 강미정연합내과의원 기업이미지 D-3 스크랩 입사지원"
     },
     {
-      "id": "clinical-8852256605336481434",
+      "id": "clinical-2618540944180625952",
       "title": "임상병리사 신입/경력 채용 충북 옥천군 경력무관 초대졸↑ 서울연합정형외과의원 ~06.11(목)",
       "organization": "사람인",
       "category": "clinical",
@@ -510,7 +510,7 @@
       "description": "임상병리사 신입/경력 채용 충북 옥천군 경력무관 초대졸↑ 서울연합정형외과의원 ~06.11(목) 스크랩 입사지원"
     },
     {
-      "id": "clinical-7954062491418297157",
+      "id": "clinical-119320321945752045",
       "title": "인기있는 새항운병원 임상병리사 오전 파트 구인 부산 연제구 점심식사 제공 새항운병원 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -526,7 +526,7 @@
       "description": "인기있는 새항운병원 임상병리사 오전 파트 구인 부산 연제구 점심식사 제공 새항운병원 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-4100994352937222384",
+      "id": "clinical-3303593959824283466",
       "title": "의료법인 신원의료재단 혈액학부 경력직 병리사 모집(주,야) 경기 광명시 점심식사 제공 의료법인 신원의료재단 신원의학연구소 기업이미지 ~06.07(일)",
       "organization": "사람인",
       "category": "clinical",
@@ -542,40 +542,8 @@
       "description": "의료법인 신원의료재단 혈액학부 경력직 병리사 모집(주,야) 경기 광명시 점심식사 제공 의료법인 신원의료재단 신원의학연구소 기업이미지 ~06.07(일) 스크랩 입사지원"
     },
     {
-      "id": "clinical-7597526644019849532",
-      "title": "의료 지원 급상승 [아이디병원] 검사팀 임상병리사 채용 서울 강남구 상여금 아이디병원 기업이미지 ~07.05(일)",
-      "organization": "사람인",
-      "category": "clinical",
-      "track": "clinical",
-      "region": "서울",
-      "employmentType": "임상병리",
-      "postedAt": "",
-      "deadline": "",
-      "status": "unknown",
-      "source": "사람인 임상병리",
-      "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53808221&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "의료 지원 급상승 [아이디병원] 검사팀 임상병리사 채용 서울 강남구 상여금 아이디병원 기업이미지 ~07.05(일) 스크랩 입사지원"
-    },
-    {
-      "id": "clinical-3344408617390251928",
-      "title": "의료 지원 급상승 [녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (청주) 충북 청주시 서원구 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
-      "organization": "사람인",
-      "category": "clinical",
-      "track": "clinical",
-      "region": "서울/경기",
-      "employmentType": "임상병리",
-      "postedAt": "",
-      "deadline": "",
-      "status": "unknown",
-      "source": "사람인 임상병리",
-      "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53827374&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "의료 지원 급상승 [녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (청주) 충북 청주시 서원구 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
-    },
-    {
-      "id": "clinical-6567563113145431030",
-      "title": "의료 조회 급상승 안산 수면다원검사를 진행할 임상병리사분을 모십니다 경기 안산시 단원구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~05.27(수)",
+      "id": "clinical-2964906699203415676",
+      "title": "의료 조회 급상승 수면다원검사를 진행할 임상병리사분을 모십니다 [프리랜서] 경기 시흥시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~06.23(화)",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -586,12 +554,28 @@
       "status": "unknown",
       "source": "사람인 임상병리",
       "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53738958&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "의료 조회 급상승 안산 수면다원검사를 진행할 임상병리사분을 모십니다 경기 안산시 단원구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~05.27(수) 스크랩 입사지원"
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53722238&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "의료 조회 급상승 수면다원검사를 진행할 임상병리사분을 모십니다 [프리랜서] 경기 시흥시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~06.23(화) 스크랩 입사지원"
     },
     {
-      "id": "clinical-3730887663254564914",
-      "title": "의료 스크랩 급상승 [녹십자 그룹] GC셀 임상병리지원 (세종, 계약직) 세종 세종특별자치시 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
+      "id": "clinical-7243666082473522615",
+      "title": "의료 조회 급상승 [향남두리ENT] 임상병리사 채용합니다. 경기 화성시 상여금 향남두리이비인후과 D-4",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "경기",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53381343&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "의료 조회 급상승 [향남두리ENT] 임상병리사 채용합니다. 경기 화성시 상여금 향남두리이비인후과 D-4 스크랩 입사지원"
+    },
+    {
+      "id": "clinical-6989906037523145622",
+      "title": "의료 스크랩 급상승 삼성병리과 임상병리사(신입) 채용 공고 대구 수성구 여름휴가 삼성병리과의원 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -602,11 +586,11 @@
       "status": "unknown",
       "source": "사람인 임상병리",
       "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53582919&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "의료 스크랩 급상승 [녹십자 그룹] GC셀 임상병리지원 (세종, 계약직) 세종 세종특별자치시 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53771897&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "의료 스크랩 급상승 삼성병리과 임상병리사(신입) 채용 공고 대구 수성구 여름휴가 삼성병리과의원 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "anyang-6682714697363897475",
+      "id": "anyang-3526716919700859940",
       "title": "안양/군포/의왕/과천 산후도우미,베이비시터 모집",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -622,7 +606,7 @@
       "status": "unknown"
     },
     {
-      "id": "anyang-6901355525816208202",
+      "id": "anyang-2694232528081980714",
       "title": "안양 군포 의왕 과천 산후관리사 채용(위드맘케어 ...",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -638,8 +622,8 @@
       "status": "unknown"
     },
     {
-      "id": "clinical-5154395238486011810",
-      "title": "수면다원검사를 진행할 임상병리사분을 모십니다 [프리랜서] 경기 시흥시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~06.23(화)",
+      "id": "clinical-8816961130992640215",
+      "title": "안산 수면다원검사를 진행할 임상병리사분을 모십니다 경기 안산시 단원구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~05.27(수)",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -650,11 +634,11 @@
       "status": "unknown",
       "source": "사람인 임상병리",
       "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53722238&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "수면다원검사를 진행할 임상병리사분을 모십니다 [프리랜서] 경기 시흥시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~06.23(화) 스크랩 입사지원"
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53738958&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "안산 수면다원검사를 진행할 임상병리사분을 모십니다 경기 안산시 단원구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~05.27(수) 스크랩 입사지원"
     },
     {
-      "id": "clinical-9111898998645871638",
+      "id": "clinical-4259554039860262991",
       "title": "수면다원검사 경남 양산시 임상병리사 모십니다. 인천 남동구 경력무관 초대졸↑ 빅메디칼 기업이미지 ~05.23(토)",
       "organization": "사람인",
       "category": "clinical",
@@ -670,7 +654,7 @@
       "description": "수면다원검사 경남 양산시 임상병리사 모십니다. 인천 남동구 경력무관 초대졸↑ 빅메디칼 기업이미지 ~05.23(토) 스크랩 입사지원"
     },
     {
-      "id": "clinical-3548689935443746966",
+      "id": "clinical-43501739676958385",
       "title": "새항운병원 임상병리사 오전 파트 구인 새항운병원 연제구 인기있는 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -686,23 +670,7 @@
       "description": "새항운병원 임상병리사 오전 파트 구인 새항운병원 연제구 인기있는 채용시"
     },
     {
-      "id": "clinical-6386088914339069762",
-      "title": "삼성병리과 임상병리사(신입) 채용 공고 대구 수성구 여름휴가 삼성병리과의원 기업이미지 채용시",
-      "organization": "사람인",
-      "category": "clinical",
-      "track": "clinical",
-      "region": "서울/경기",
-      "employmentType": "임상병리",
-      "postedAt": "",
-      "deadline": "",
-      "status": "unknown",
-      "source": "사람인 임상병리",
-      "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53771897&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "삼성병리과 임상병리사(신입) 채용 공고 대구 수성구 여름휴가 삼성병리과의원 기업이미지 채용시 스크랩 입사지원"
-    },
-    {
-      "id": "clinical-1365868148564250954",
+      "id": "clinical-1651366082059644113",
       "title": "삼성병리과 임상병리사(경력) 채용 공고 대구 수성구 여름휴가 삼성병리과의원 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -718,7 +686,7 @@
       "description": "삼성병리과 임상병리사(경력) 채용 공고 대구 수성구 여름휴가 삼성병리과의원 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-2288811780494219048",
+      "id": "clinical-511646341745114626",
       "title": "베테랑병원 임상병리사(아르바이트) 채용 공고 부산 연제구 경력무관 초대졸↑ 베테랑병원 기업이미지 ~05.22(금)",
       "organization": "사람인",
       "category": "clinical",
@@ -734,7 +702,7 @@
       "description": "베테랑병원 임상병리사(아르바이트) 채용 공고 부산 연제구 경력무관 초대졸↑ 베테랑병원 기업이미지 ~05.22(금) 스크랩 입사지원"
     },
     {
-      "id": "cabin-4764893443267778469",
+      "id": "cabin-8701659458794457126",
       "title": "객실승무 (신입인턴/대구,부산)",
       "organization": "티웨이항공",
       "category": "cabin",
@@ -750,7 +718,7 @@
       "description": "티웨이항공 채용 | 객실승무(신입인턴/대구,부산)"
     },
     {
-      "id": "cabin-8703075871291092693",
+      "id": "cabin-1420099109887146056",
       "title": "é¦é¡µ",
       "organization": "중국동방항공",
       "category": "cabin",
@@ -766,7 +734,7 @@
       "description": "ï»¿ é¦é¡µ æèé¡¹ç® Recruitment project æ ¡å­æè Campus recruitment é£è¡å­¦çæè Pilot recruitment ä¹å¡ãå®å ¨åæè Crew recruitment ç¤¾ä¼æè Social recruitment å é¨æè Internal recruitment"
     },
     {
-      "id": "cabin-26926860586245607",
+      "id": "cabin-3073555132399751234",
       "title": "ä¸­å½åæ¹èªç©ºæèç½",
       "organization": "중국남방항공",
       "category": "cabin",
@@ -782,23 +750,7 @@
       "description": "ä¸­å½åæ¹èªç©ºæèç½"
     },
     {
-      "id": "clinical-9211366075955721592",
-      "title": "[향남두리ENT] 임상병리사 채용합니다. 경기 화성시 상여금 향남두리이비인후과 D-5",
-      "organization": "사람인",
-      "category": "clinical",
-      "track": "clinical",
-      "region": "경기",
-      "employmentType": "임상병리",
-      "postedAt": "",
-      "deadline": "",
-      "status": "unknown",
-      "source": "사람인 임상병리",
-      "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53381343&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[향남두리ENT] 임상병리사 채용합니다. 경기 화성시 상여금 향남두리이비인후과 D-5 스크랩 입사지원"
-    },
-    {
-      "id": "anyang-96086132655298433",
+      "id": "anyang-5551537342923113372",
       "title": "[의왕,군포,안양,광명,과천] 운전기사님 모집/주5일/1종,초보/운전만/비용X",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -809,12 +761,12 @@
       "deadline": "",
       "source": "잡코리아 안양",
       "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48940031?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=8&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48940031?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=9&sc=630",
       "description": "[의왕,군포,안양,광명,과천] 운전기사님 모집/주5일/1종,초보/운전만/비용X",
       "status": "unknown"
     },
     {
-      "id": "anyang-5697950325977096626",
+      "id": "anyang-3785895358807037616",
       "title": "[의왕,광명,안양,군포,과천] 운전기사님 모집/주5일/초보,1종가능/운전만.",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -825,12 +777,12 @@
       "deadline": "",
       "source": "잡코리아 안양",
       "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49140993?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=7&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49140993?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=8&sc=630",
       "description": "[의왕,광명,안양,군포,과천] 운전기사님 모집/주5일/초보,1종가능/운전만.",
       "status": "unknown"
     },
     {
-      "id": "clinical-7417090442049574610",
+      "id": "clinical-6125830021775603527",
       "title": "[오후 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 ~05.25(월)",
       "organization": "사람인",
       "category": "clinical",
@@ -846,7 +798,7 @@
       "description": "[오후 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 ~05.25(월) 스크랩 입사지원"
     },
     {
-      "id": "clinical-3786548532234701754",
+      "id": "clinical-4081821743761674038",
       "title": "[오전 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 ~05.25(월)",
       "organization": "사람인",
       "category": "clinical",
@@ -862,7 +814,23 @@
       "description": "[오전 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 ~05.25(월) 스크랩 입사지원"
     },
     {
-      "id": "clinical-27161242075802847",
+      "id": "clinical-254693724851428525",
+      "title": "[아이디병원] 검사팀 임상병리사 채용 서울 강남구 상여금 아이디병원 기업이미지 ~07.05(일)",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "서울",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53808221&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "[아이디병원] 검사팀 임상병리사 채용 서울 강남구 상여금 아이디병원 기업이미지 ~07.05(일) 스크랩 입사지원"
+    },
+    {
+      "id": "clinical-7507932957943169722",
       "title": "[녹십자그룹] GC셀 입력 및 검체 관리 사원 채용 (서부산) 부산 사상구 성과급 연 1회 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -878,7 +846,7 @@
       "description": "[녹십자그룹] GC셀 입력 및 검체 관리 사원 채용 (서부산) 부산 사상구 성과급 연 1회 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-4755048093775318196",
+      "id": "clinical-8040541265623885628",
       "title": "[녹십자 그룹] GC셀 임상병리지원 (세종, 계약직, 단시간근로) 세종 세종특별자치시 성과급 연 1회 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -894,7 +862,23 @@
       "description": "[녹십자 그룹] GC셀 임상병리지원 (세종, 계약직, 단시간근로) 세종 세종특별자치시 성과급 연 1회 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-8255034790664929287",
+      "id": "clinical-4220366944741287073",
+      "title": "[녹십자 그룹] GC셀 임상병리지원 (세종, 계약직) 세종 세종특별자치시 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "서울/경기",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53582919&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "[녹십자 그룹] GC셀 임상병리지원 (세종, 계약직) 세종 세종특별자치시 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+    },
+    {
+      "id": "clinical-6995810349350658718",
       "title": "[녹십자 그룹] GC셀 임상병리사 모집 (제주, 계약직) 제주 서귀포시 성과급 연 1회 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -910,7 +894,71 @@
       "description": "[녹십자 그룹] GC셀 임상병리사 모집 (제주, 계약직) 제주 서귀포시 성과급 연 1회 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "anyang-7727305541981875708",
+      "id": "clinical-6899163866855261634",
+      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (청주) 충북 청주시 서원구 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "서울/경기",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53827374&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (청주) 충북 청주시 서원구 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+    },
+    {
+      "id": "clinical-484247742384714050",
+      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (용인) 경기 용인시 기흥구 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "경기",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53877939&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (용인) 경기 용인시 기흥구 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+    },
+    {
+      "id": "clinical-1544496464512683125",
+      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (분당) 경기 성남시 분당구 성과급 연 1회 (주)지씨셀 기업이미지 채용시",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "경기",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53879380&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (분당) 경기 성남시 분당구 성과급 연 1회 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+    },
+    {
+      "id": "clinical-6434194940605069535",
+      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (분당) (주)지씨셀 경기 성남시 분당구 경력무관 채용시",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "경기",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53879380&t_category=job_recruit&t_content=SRI_M_050_2LV-JOB_MIX_RCT_NONMEM&referNonce=adcf06f2307750d79c83&",
+      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (분당) (주)지씨셀 경기 성남시 분당구 경력무관 채용시 스크랩"
+    },
+    {
+      "id": "anyang-3121325994448852088",
       "title": "[과천/안양/의왕/군포 등]각 지역 택배배송기사 채용공고",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -921,12 +969,12 @@
       "deadline": "",
       "source": "잡코리아 안양",
       "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48978216?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=4&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48978216?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=5&sc=630",
       "description": "[과천/안양/의왕/군포 등]각 지역 택배배송기사 채용공고",
       "status": "unknown"
     },
     {
-      "id": "anyang-241670722546456041",
+      "id": "anyang-2687155252161194019",
       "title": "KWE 군포센터 자재관리 사원 채용/주5일/ 실내근무",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -937,12 +985,12 @@
       "deadline": "",
       "source": "잡코리아 안양",
       "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48815050?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=12&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48815050?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=13&sc=630",
       "description": "KWE 군포센터 자재관리 사원 채용/주5일/ 실내근무",
       "status": "unknown"
     },
     {
-      "id": "cabin-8555334694979142538",
+      "id": "cabin-6016640973018703262",
       "title": "2026년 신입 인턴 객실승무원 채용",
       "organization": "아시아나항공",
       "category": "cabin",
@@ -958,7 +1006,7 @@
       "description": "아시아나항공 채용 | 2026년 신입 인턴 객실승무원 채용"
     },
     {
-      "id": "cabin-3215423156563528660",
+      "id": "cabin-3828030812102793523",
       "title": "2026년 상반기 신입 인턴 객실승무원 모집",
       "organization": "대한항공",
       "category": "cabin",
@@ -974,7 +1022,7 @@
       "description": "대한항공 채용 | 2026년 상반기 신입 인턴 객실승무원 모집"
     },
     {
-      "id": "cabin-6423837340519004528",
+      "id": "cabin-1154113344777491076",
       "title": "2026년 상반기 객실승무원 신입사원 채용(서울/부산)",
       "organization": "제주항공",
       "category": "cabin",
@@ -990,7 +1038,7 @@
       "description": "제주항공 채용 | 2026년 신입 객실승무원 채용(서울/부산)"
     },
     {
-      "id": "clinical-1872441434530887331",
+      "id": "clinical-5737142148707359195",
       "title": "(주5일제)경북 왜관일층정형외과에서 임상병리사 구합니다 경북 칠곡군 경력무관 학력무관 왜관일층정형외과의원 ~06.11(목)",
       "organization": "사람인",
       "category": "clinical",
@@ -1006,7 +1054,7 @@
       "description": "(주5일제)경북 왜관일층정형외과에서 임상병리사 구합니다 경북 칠곡군 경력무관 학력무관 왜관일층정형외과의원 ~06.11(목) 스크랩 입사지원"
     },
     {
-      "id": "clinical-5939400988963910496",
+      "id": "clinical-3804342845056757538",
       "title": "(주5일제)(충원)경북 왜관일층정형외과에서 임상병리사 구합니다 경북 칠곡군 경력무관 학력무관 왜관일층정형외과의원 ~06.07(일)",
       "organization": "사람인",
       "category": "clinical",
@@ -1022,7 +1070,7 @@
       "description": "(주5일제)(충원)경북 왜관일층정형외과에서 임상병리사 구합니다 경북 칠곡군 경력무관 학력무관 왜관일층정형외과의원 ~06.07(일) 스크랩 입사지원"
     },
     {
-      "id": "anyang-1929145512857792194",
+      "id": "anyang-8075409856016698967",
       "title": "(주) 위드맘케어",
       "organization": "안양 군포 의왕 과천 산후관리사 채용(위드맘케어 ...",
       "category": "short",
@@ -1038,7 +1086,7 @@
       "status": "unknown"
     },
     {
-      "id": "anyang-2343825534263503106",
+      "id": "anyang-1048357075507274878",
       "title": "(안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -1049,12 +1097,12 @@
       "deadline": "",
       "source": "잡코리아 안양",
       "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48982210?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=5&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48982210?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=6&sc=630",
       "description": "(안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X",
       "status": "unknown"
     },
     {
-      "id": "anyang-4308681983874036481",
+      "id": "anyang-3868306487080314076",
       "title": "(안양,군포,과천,의왕,광명)경기물류 운송기사 채용/운전만/주5일/초보,1종",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -1065,13 +1113,13 @@
       "deadline": "",
       "source": "잡코리아 안양",
       "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48979742?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=6&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48979742?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=7&sc=630",
       "description": "(안양,군포,과천,의왕,광명)경기물류 운송기사 채용/운전만/주5일/초보,1종",
       "status": "unknown"
     },
     {
-      "id": "clinical-3716716651069564383",
-      "title": "(녹십자 I-MED) 강북의원 진단의학팀 오전 임상병리사 채용 서울 중구 성과급 연 1회 (의)녹십자의료재단 기업이미지 ~06.07(일)",
+      "id": "clinical-6824703191362297041",
+      "title": "(녹십자 I-MED) 강북의원 진단의학팀 오전 임상병리사 채용 서울 중구 평균근속 2~5년 (의)녹십자의료재단 기업이미지 ~06.07(일)",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -1083,10 +1131,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=53832804&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "(녹십자 I-MED) 강북의원 진단의학팀 오전 임상병리사 채용 서울 중구 성과급 연 1회 (의)녹십자의료재단 기업이미지 ~06.07(일) 스크랩 입사지원"
+      "description": "(녹십자 I-MED) 강북의원 진단의학팀 오전 임상병리사 채용 서울 중구 평균근속 2~5년 (의)녹십자의료재단 기업이미지 ~06.07(일) 스크랩 입사지원"
     },
     {
-      "id": "anyang-6214585150101066458",
+      "id": "anyang-3368775288571551724",
       "title": "(군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -1097,12 +1145,12 @@
       "deadline": "",
       "source": "잡코리아 안양",
       "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48950828?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=9&sc=630",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/48950828?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=10&sc=630",
       "description": "(군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X",
       "status": "unknown"
     },
     {
-      "id": "anyang-3442610809687739429",
+      "id": "anyang-5357535038435640169",
       "title": "(No.1)아이맘케어안양지사",
       "organization": "안양/군포/의왕/과천 산후도우미,베이비시터 모집",
       "category": "short",
@@ -1118,7 +1166,7 @@
       "status": "unknown"
     },
     {
-      "id": "anyang-5297503674109426317",
+      "id": "anyang-1243716232054120312",
       "title": "( 안양 /평촌)스쿨버스 어린이 통학버스 기사님 / 동승자님 채용",
       "organization": "안양",
       "category": "short",
