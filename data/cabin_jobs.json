@@ -1,16 +1,17 @@
 {
   "meta": {
-    "generatedAt": "2026-05-19T23:45:03.719436",
+    "generatedAt": "2026-05-20T23:51:43.506830",
     "source": "cabin",
-    "count": 6,
+    "count": 5,
     "errors": [
+      "https://flyasiana.recruiter.co.kr/career/jobs/88541: 500 Server Error: Internal Server Error for url: https://flyasiana.recruiter.co.kr/career/jobs/88541",
       "https://twayair.recruiter.co.kr/career/jobs/82723: 404 Client Error: Not Found for url: https://twayair.recruiter.co.kr/career/jobs/82723"
     ],
     "notes": "Foreign airline encoding cleanup applied for China/HK sources."
   },
   "jobs": [
     {
-      "id": "cabin-678013176021604083",
+      "id": "cabin-6376722603406749508",
       "title": "2026년 상반기 신입 인턴 객실승무원 모집",
       "organization": "대한항공",
       "category": "cabin",
@@ -26,23 +27,7 @@
       "description": "대한항공 채용 | 2026년 상반기 신입 인턴 객실승무원 모집"
     },
     {
-      "id": "cabin-5340682218042629846",
-      "title": "2026년 신입 인턴 객실승무원 채용",
-      "organization": "아시아나항공",
-      "category": "cabin",
-      "track": "cabin",
-      "region": "서울",
-      "employmentType": "승무원",
-      "postedAt": "",
-      "deadline": "",
-      "status": "unknown",
-      "source": "아시아나항공 채용",
-      "sourceType": "airline-career-site",
-      "url": "https://flyasiana.recruiter.co.kr/career/jobs/88541",
-      "description": "아시아나항공 채용 | 2026년 신입 인턴 객실승무원 채용"
-    },
-    {
-      "id": "cabin-5889617294715577888",
+      "id": "cabin-3384033223607950061",
       "title": "2026년 상반기 객실승무원 신입사원 채용(서울/부산)",
       "organization": "제주항공",
       "category": "cabin",
@@ -58,7 +43,7 @@
       "description": "제주항공 채용 | 2026년 신입 객실승무원 채용(서울/부산)"
     },
     {
-      "id": "cabin-288322915327614776",
+      "id": "cabin-4456878897579331172",
       "title": "진에어 채용",
       "organization": "진에어",
       "category": "cabin",
@@ -74,7 +59,7 @@
       "description": "채용공고 내용 공고명 2026년 상반기 신입 객실승무원 채용 (서울) 접수기간 2026.01.15(목) 17:00 ~ 2026.01.22(목) 17:00 접수마감 <p><br></p><p><br style=\"clear:both;\"></p><div style=\"text-align: center;\" align=\"center\"><br></div><p></p><div style=\"text-align"
     },
     {
-      "id": "cabin-8124896037737609802",
+      "id": "cabin-2564465674437577738",
       "title": "é¦é¡µ",
       "organization": "중국동방항공",
       "category": "cabin",
@@ -90,7 +75,7 @@
       "description": "ï»¿ é¦é¡µ æèé¡¹ç® Recruitment project æ ¡å­æè Campus recruitment é£è¡å­¦çæè Pilot recruitment ä¹å¡ãå®å ¨åæè Crew recruitment ç¤¾ä¼æè Social recruitment å é¨æè Internal recruitment"
     },
     {
-      "id": "cabin-6052893304738526309",
+      "id": "cabin-2734432078613348718",
       "title": "ä¸­å½åæ¹èªç©ºæèç½",
       "organization": "중국남방항공",
       "category": "cabin",
