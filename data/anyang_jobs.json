@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-22T23:43:17.901340",
+    "generatedAt": "2026-05-23T23:36:41.472003",
     "source": "anyang-living-area-v3",
     "count": 1,
     "listUrls": [
@@ -9,7 +9,7 @@
       "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C"
     ],
     "errors": [
-      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7f3bf474b560>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
+      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7f6c3f137350>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
     ],
     "rawCount": 1,
     "keptCount": 1,
@@ -21,19 +21,19 @@
   },
   "jobs": [
     {
-      "id": "anyang-5235981165864964836",
-      "title": "의왕연구소 보안사원 모집 (신입/경력) 에이치디에스(주) 서울전체 외 신입/경력 학력무관 인기있는 ~07.19(일)",
-      "organization": "의왕연구소 보안사원 모집 (신입/경력)",
+      "id": "anyang-2737377573283708103",
+      "title": "( 안양 /평촌)스쿨버스 어린이 통학버스 기사님 / 동승자님 채용",
+      "organization": "안양",
       "category": "short",
       "track": "short",
-      "region": "의왕",
+      "region": "안양",
       "employmentType": "단기/알바",
       "postedAt": "",
       "deadline": "",
       "source": "사람인 안양",
       "sourceType": "job-board",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=53947586&",
-      "description": "의왕연구소 보안사원 모집 (신입/경력) 에이치디에스(주) 서울전체 외 신입/경력 학력무관 인기있는 ~07.19(일)"
+      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=53535456",
+      "description": "스크랩"
     }
   ]
 }
