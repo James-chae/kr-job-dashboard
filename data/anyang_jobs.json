@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-05-23T23:36:41.472003",
+    "generatedAt": "2026-05-24T23:40:16.098642",
     "source": "anyang-living-area-v3",
     "count": 1,
     "listUrls": [
@@ -9,7 +9,7 @@
       "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C"
     ],
     "errors": [
-      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7f6c3f137350>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
+      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7f90d11459d0>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
     ],
     "rawCount": 1,
     "keptCount": 1,
@@ -21,7 +21,7 @@
   },
   "jobs": [
     {
-      "id": "anyang-2737377573283708103",
+      "id": "anyang-5290996216420959324",
       "title": "( 안양 /평촌)스쿨버스 어린이 통학버스 기사님 / 동승자님 채용",
       "organization": "안양",
       "category": "short",
