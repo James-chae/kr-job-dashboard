@@ -1,39 +1,23 @@
 {
   "meta": {
-    "generatedAt": "2026-06-07T23:41:54.644672",
+    "generatedAt": "2026-06-08T23:50:22.290586",
     "source": "anyang-living-area-v3",
-    "count": 1,
+    "count": 0,
     "listUrls": [
       "https://www.saramin.co.kr/zf_user/jobs/list/domestic?searchword=%EC%95%88%EC%96%91&loc_cd=101000,101020,101030",
       "https://www.alba.co.kr/job/DetailList.asp?area=13110",
       "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C"
     ],
     "errors": [
-      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7fca60c56780>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
+      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7faf9a6ba960>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
     ],
-    "rawCount": 1,
-    "keptCount": 1,
+    "rawCount": 0,
+    "keptCount": 0,
     "notes": [
       "living-area focused",
       "job-board noise cleanup",
       "duplicate scrap cards removed"
     ]
   },
-  "jobs": [
-    {
-      "id": "anyang-8165593088412954287",
-      "title": "( 안양 /시흥)스쿨버스 어린이 통학버스 기사님 / 동승자님 채용",
-      "organization": "안양",
-      "category": "short",
-      "track": "short",
-      "region": "안양",
-      "employmentType": "단기/알바",
-      "postedAt": "",
-      "deadline": "",
-      "source": "사람인 안양",
-      "sourceType": "job-board",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=54084188",
-      "description": "스크랩"
-    }
-  ]
+  "jobs": []
 }
