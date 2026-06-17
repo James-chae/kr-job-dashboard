@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-16T00:15:51.957872",
+    "generatedAt": "2026-06-17T00:02:17.858507",
     "source": "uiwang",
     "count": 0,
     "listUrls": [
@@ -9,9 +9,9 @@
       "https://www.uiwang.go.kr/UWKORINFO1001"
     ],
     "errors": [
-      "https://www.uiwang.go.kr/UWKORINFO1801: HTTPSConnectionPool(host='www.uiwang.go.kr', port=443): Max retries exceeded with url: /UWKORINFO1801 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.uiwang.go.kr', port=443) at 0x7f7c3dd80bf0>, 'Connection to www.uiwang.go.kr timed out. (connect timeout=20)'))",
-      "https://www.uiwang.go.kr/UWKORINFO1002: HTTPSConnectionPool(host='www.uiwang.go.kr', port=443): Max retries exceeded with url: /UWKORINFO1002 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.uiwang.go.kr', port=443) at 0x7f7c3da456a0>, 'Connection to www.uiwang.go.kr timed out. (connect timeout=20)'))",
-      "https://www.uiwang.go.kr/UWKORINFO1001: HTTPSConnectionPool(host='www.uiwang.go.kr', port=443): Max retries exceeded with url: /UWKORINFO1001 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.uiwang.go.kr', port=443) at 0x7f7c3da45a30>, 'Connection to www.uiwang.go.kr timed out. (connect timeout=20)'))"
+      "https://www.uiwang.go.kr/UWKORINFO1801: HTTPSConnectionPool(host='www.uiwang.go.kr', port=443): Max retries exceeded with url: /UWKORINFO1801 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.uiwang.go.kr', port=443) at 0x7fedb41feab0>, 'Connection to www.uiwang.go.kr timed out. (connect timeout=20)'))",
+      "https://www.uiwang.go.kr/UWKORINFO1002: HTTPSConnectionPool(host='www.uiwang.go.kr', port=443): Max retries exceeded with url: /UWKORINFO1002 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.uiwang.go.kr', port=443) at 0x7fedb3b85250>, 'Connection to www.uiwang.go.kr timed out. (connect timeout=20)'))",
+      "https://www.uiwang.go.kr/UWKORINFO1001: HTTPSConnectionPool(host='www.uiwang.go.kr', port=443): Max retries exceeded with url: /UWKORINFO1001 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.uiwang.go.kr', port=443) at 0x7fedb3b85640>, 'Connection to www.uiwang.go.kr timed out. (connect timeout=20)'))"
     ]
   },
   "jobs": []

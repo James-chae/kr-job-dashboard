@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-06-16T00:18:00.741903",
+    "generatedAt": "2026-06-17T00:03:32.760846",
     "source": "anyang-living-area-v3",
     "count": 1,
     "listUrls": [
@@ -9,8 +9,7 @@
       "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C"
     ],
     "errors": [
-      "https://www.alba.co.kr/job/DetailList.asp?area=13110: HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with url: /job/DetailList.asp?area=13110 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.alba.co.kr', port=443) at 0x7fc136143800>, 'Connection to www.alba.co.kr timed out. (connect timeout=20)'))",
-      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7fc1361701a0>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
+      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7fab89764a40>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
     ],
     "rawCount": 1,
     "keptCount": 1,
@@ -22,7 +21,7 @@
   },
   "jobs": [
     {
-      "id": "anyang-2082011603677418989",
+      "id": "anyang-6352271564212932815",
       "title": "( 안양 /시흥)스쿨버스 어린이 통학버스 기사님 / 동승자님 채용",
       "organization": "안양",
       "category": "short",
