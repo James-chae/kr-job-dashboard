@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-02T23:42:43.493721",
+    "generatedAt": "2026-07-03T23:40:17.214681",
     "source": "anyang-living-area-v3",
     "count": 26,
     "listUrls": [
@@ -8,7 +8,9 @@
       "https://www.alba.co.kr/job/DetailList.asp?area=13110",
       "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C"
     ],
-    "errors": [],
+    "errors": [
+      "https://www.alba.co.kr/job/DetailList.asp?area=13110: HTTPSConnectionPool(host='www.alba.co.kr', port=443): Max retries exceeded with url: /job/DetailList.asp?area=13110 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.alba.co.kr', port=443) at 0x7fef3af65a00>, 'Connection to www.alba.co.kr timed out. (connect timeout=20)'))"
+    ],
     "rawCount": 26,
     "keptCount": 26,
     "notes": [
@@ -19,7 +21,7 @@
   },
   "jobs": [
     {
-      "id": "anyang-2346898486866948942",
+      "id": "anyang-4688559498629460466",
       "title": "[평촌/산본 캠퍼스] 초중 , 전임 파트강사 중고등 전임 강사모집 (주)재원에듀 서울전체 외 신입/경력 대졸 이상 ~08.01(토)",
       "organization": "[평촌/산본 캠퍼스] 초중 , 전임 파트강사 중고등 전임 강사모집",
       "category": "short",
@@ -34,8 +36,8 @@
       "description": "[평촌/산본 캠퍼스] 초중 , 전임 파트강사 중고등 전임 강사모집 (주)재원에듀 서울전체 외 신입/경력 대졸 이상 ~08.01(토)"
     },
     {
-      "id": "anyang-7810057416691469455",
-      "title": "의왕연구소 보안사원 모집 (신입/경력) 에이치디에스(주) 서울전체 외 신입/경력 학력무관 서비스 조회 급상승 ~07.19(일)",
+      "id": "anyang-8257384342916333845",
+      "title": "의왕연구소 보안사원 모집 (신입/경력) 에이치디에스(주) 서울전체 외 신입/경력 학력무관 인기있는 ~07.19(일)",
       "organization": "의왕연구소 보안사원 모집 (신입/경력)",
       "category": "short",
       "track": "short",
@@ -46,25 +48,40 @@
       "source": "사람인 안양",
       "sourceType": "job-board",
       "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=53947586&",
-      "description": "의왕연구소 보안사원 모집 (신입/경력) 에이치디에스(주) 서울전체 외 신입/경력 학력무관 서비스 조회 급상승 ~07.19(일)"
+      "description": "의왕연구소 보안사원 모집 (신입/경력) 에이치디에스(주) 서울전체 외 신입/경력 학력무관 인기있는 ~07.19(일)"
     },
     {
-      "id": "anyang-7222986754047861609",
-      "title": "( 안양 /시흥)스쿨버스 어린이 통학버스 기사님 / 동승자님 채용",
-      "organization": "안양",
+      "id": "anyang-3526815231302662147",
+      "title": "㈜서원인텍",
+      "organization": "신입 지원 가능 스크랩",
       "category": "short",
       "track": "short",
-      "region": "안양",
+      "region": "군포",
       "employmentType": "단기/알바",
       "postedAt": "",
       "deadline": "",
-      "source": "사람인 안양",
+      "source": "잡코리아 안양",
       "sourceType": "job-board",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=54084188",
-      "description": "스크랩"
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49503850?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=1&sc=551",
+      "description": "신입 지원 가능 스크랩 개발팀 인원 모집 경기 군포시 모바일·APP, 전기·전자엔지니어, 기계엔지니어, 설계엔지니어 즉시 지원 신입"
     },
     {
-      "id": "anyang-8022992191452727599",
+      "id": "anyang-5748804323411270768",
+      "title": "㈜서원인텍",
+      "organization": "신입 지원 가능 스크랩",
+      "category": "short",
+      "track": "short",
+      "region": "군포",
+      "employmentType": "단기/알바",
+      "postedAt": "",
+      "deadline": "",
+      "source": "잡코리아 안양",
+      "sourceType": "job-board",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49503762?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=2&sc=551",
+      "description": "신입 지원 가능 스크랩 개발팀(금형part) 인원 모집 경기 군포시 모바일·APP, 기계엔지니어, 설계엔지니어, 생산직종사자 즉시 지원 신입·경력"
+    },
+    {
+      "id": "anyang-6940574120151900153",
       "title": "쿠팡로지스틱스서비스",
       "organization": "[월최대377] 쿠팡배송기사님(정규직 전환형) 전국 채용 (CLS/택배/초보가능)",
       "category": "short",
@@ -75,26 +92,11 @@
       "deadline": "",
       "source": "잡코리아 안양",
       "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49342840?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=1&sc=551",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49342840?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=3&sc=551",
       "description": "스크랩 [월최대377] 쿠팡배송기사님(정규직 전환형) 전국 채용 (CLS/택배/초보가능) 경기 군포시 물류·운송·배송, 화물·중장비기사 즉시 지원 경력무관 • 연차제도"
     },
     {
-      "id": "anyang-2983164703453171151",
-      "title": "비에이치푸드",
-      "organization": "조미식품 개발 연구원 모집",
-      "category": "short",
-      "track": "short",
-      "region": "군포",
-      "employmentType": "단기/알바",
-      "postedAt": "",
-      "deadline": "",
-      "source": "잡코리아 안양",
-      "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49479779?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=1&sc=552",
-      "description": "스크랩 조미식품 개발 연구원 모집 경기 군포시 식품가공, 식품연구원 연봉 2,800~3,000만원 즉시 지원 경력무관"
-    },
-    {
-      "id": "anyang-9004102662325350956",
+      "id": "anyang-1982033971070962558",
       "title": "[3개월단기/오전근무/안양] LG전자 단순자재관리보조 채용",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -109,7 +111,7 @@
       "description": "[3개월단기/오전근무/안양] LG전자 단순자재관리보조 채용"
     },
     {
-      "id": "anyang-6262690319125952196",
+      "id": "anyang-7519706031512356147",
       "title": "에이스휴먼파워㈜",
       "organization": "탄탄한 중견기업",
       "category": "short",
@@ -124,7 +126,7 @@
       "description": "탄탄한 중견기업 스크랩 [3개월단기/오전근무/안양] LG전자 단순자재관리보조 채용 경기 의왕시 외 5 정비·A/S·카센터, 설치·수리기사, 정비기사, 생산직종사자 즉시 지원 경력무관"
     },
     {
-      "id": "anyang-8096393687945707621",
+      "id": "anyang-4807263401579102879",
       "title": "㈜네오전자기술",
       "organization": "B2B 제품 PM 채용",
       "category": "short",
@@ -139,7 +141,7 @@
       "description": "스크랩 B2B 제품 PM 채용 경기 군포시 외 5 생활용품·소비재·기타, 영업관리, 영업지원 즉시 지원 경력3년↑"
     },
     {
-      "id": "anyang-4363196743155108439",
+      "id": "anyang-661328893406121855",
       "title": "주식회사 넥스트에어로스페이스",
       "organization": "유연근무제 시행중 스크랩",
       "category": "short",
@@ -154,7 +156,7 @@
       "description": "유연근무제 시행중 스크랩 [항공분야] 구조, 진동 해석 분야 모집 경기 군포시 외 5 자동차·조선·철강·항공, 기계엔지니어, R&D·연구원 즉시 지원 경력2년↑ • 경조사 지원 , 유연근무 , 연차제도 , 반차제도 , 자율복장 , 출산휴가 , 보육수당"
     },
     {
-      "id": "anyang-244923058669069462",
+      "id": "anyang-6035520145472278341",
       "title": "[3개월단기/270만이상/안양] LG전자 단순 에어컨설치보조 대규모 채용",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -169,7 +171,7 @@
       "description": "[3개월단기/270만이상/안양] LG전자 단순 에어컨설치보조 대규모 채용"
     },
     {
-      "id": "anyang-5222509924804440632",
+      "id": "anyang-3005920670055197377",
       "title": "에이스휴먼파워㈜",
       "organization": "탄탄한 중견기업",
       "category": "short",
@@ -184,7 +186,7 @@
       "description": "탄탄한 중견기업 스크랩 [3개월단기/270만이상/안양] LG전자 단순 에어컨설치보조 대규모 채용 경기 의왕시 외 5 정비·A/S·카센터, 고객센터관리자, 설치·수리기사, 정비기사 월급 ~270만원 즉시 지원 경력무관"
     },
     {
-      "id": "anyang-8870190576835684818",
+      "id": "anyang-7663845962538320112",
       "title": "(안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -199,7 +201,7 @@
       "description": "(안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X"
     },
     {
-      "id": "anyang-1596292078804385881",
+      "id": "anyang-257968488937322908",
       "title": "㈜극동글로비스",
       "organization": "(안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X",
       "category": "short",
@@ -214,7 +216,7 @@
       "description": "스크랩 (안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X 경기 군포시 외 5 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관 • 공휴일 휴무"
     },
     {
-      "id": "anyang-7098900584935297419",
+      "id": "anyang-8946963247372119335",
       "title": "차이홍&대교랭귀지스퀘어 안양점 선생님을 모집합니다.군포/안양/의왕/과천",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -229,7 +231,7 @@
       "description": "차이홍&대교랭귀지스퀘어 안양점 선생님을 모집합니다.군포/안양/의왕/과천"
     },
     {
-      "id": "anyang-182125554503209698",
+      "id": "anyang-7088944044696005320",
       "title": "㈜대교 안양동차이홍",
       "organization": "믿고보는 대기업",
       "category": "short",
@@ -244,7 +246,7 @@
       "description": "믿고보는 대기업 스크랩 차이홍&대교랭귀지스퀘어 안양점 선생님을 모집합니다.군포/안양/의왕/과천 경기 안양시 학습지·방문교육, 학습지·방문교사 즉시 지원 경력무관"
     },
     {
-      "id": "anyang-635127372378616555",
+      "id": "anyang-6905809049136074367",
       "title": "(안양,군포,과천,의왕,광명)경기물류 운전기사 채용/운전만/주5일/초보,1종",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -259,7 +261,7 @@
       "description": "(안양,군포,과천,의왕,광명)경기물류 운전기사 채용/운전만/주5일/초보,1종"
     },
     {
-      "id": "anyang-6896369228841605268",
+      "id": "anyang-8162020507747619490",
       "title": "㈜극동글로비스",
       "organization": "(안양,군포,과천,의왕,광명)경기물류 운전기사 채용/운전만/주5일/초보,1종",
       "category": "short",
@@ -274,7 +276,7 @@
       "description": "스크랩 (안양,군포,과천,의왕,광명)경기물류 운전기사 채용/운전만/주5일/초보,1종 경기 의왕시 외 5 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관 • 화물복지카드"
     },
     {
-      "id": "anyang-3968642587635795796",
+      "id": "anyang-5537228257408669994",
       "title": "[의왕,군포,안양,광명,과천] 운전기사님 모집/주5일/1종,초보/운전만/비용X",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -289,7 +291,7 @@
       "description": "[의왕,군포,안양,광명,과천] 운전기사님 모집/주5일/1종,초보/운전만/비용X"
     },
     {
-      "id": "anyang-1306401170961403382",
+      "id": "anyang-7169270391941544495",
       "title": "극동통상㈜",
       "organization": "[의왕,군포,안양,광명,과천] 운전기사님 모집/주5일/1종,초보/운전만/비용X",
       "category": "short",
@@ -304,7 +306,7 @@
       "description": "스크랩 [의왕,군포,안양,광명,과천] 운전기사님 모집/주5일/1종,초보/운전만/비용X 경기 의왕시 외 14 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관 • 공휴일 휴무"
     },
     {
-      "id": "anyang-4938657873668507147",
+      "id": "anyang-4511548171083731225",
       "title": "[의왕,광명,안양,군포,과천] 운전기사님 모집/주5일/초보,1종가능/운전만.",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -319,7 +321,7 @@
       "description": "[의왕,광명,안양,군포,과천] 운전기사님 모집/주5일/초보,1종가능/운전만."
     },
     {
-      "id": "anyang-9121915630368909745",
+      "id": "anyang-2245313478980785507",
       "title": "㈜극동글로비스",
       "organization": "[의왕,광명,안양,군포,과천] 운전기사님 모집/주5일/초보,1종가능/운전만.",
       "category": "short",
@@ -334,7 +336,7 @@
       "description": "스크랩 [의왕,광명,안양,군포,과천] 운전기사님 모집/주5일/초보,1종가능/운전만. 경기 의왕시 외 5 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관 • 복지포인트 , 화물복지카드"
     },
     {
-      "id": "anyang-6137018227737360143",
+      "id": "anyang-7708690722752931438",
       "title": "(군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -349,7 +351,7 @@
       "description": "(군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X"
     },
     {
-      "id": "anyang-4382167991136742674",
+      "id": "anyang-4389766939972550043",
       "title": "극동통상㈜",
       "organization": "(군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X",
       "category": "short",
@@ -364,7 +366,7 @@
       "description": "스크랩 (군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X 경기 의왕시 외 5 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관 • 공휴일 휴무"
     },
     {
-      "id": "anyang-1922154785612047642",
+      "id": "anyang-5625352233997437025",
       "title": "(군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -379,7 +381,7 @@
       "description": "(군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X"
     },
     {
-      "id": "anyang-8238431635687800700",
+      "id": "anyang-7978864914752916132",
       "title": "㈜극동글로비스",
       "organization": "(군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X",
       "category": "short",
@@ -394,9 +396,9 @@
       "description": "스크랩 (군포,의왕,안양,광명,과천)운전기사님채용/주5/1종,초보/운전만/몸쓰는일X 경기 의왕시 외 5 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관 • 복지포인트 , 화물복지카드 , 공휴일 휴무"
     },
     {
-      "id": "anyang-4257586184862669687",
+      "id": "anyang-7829794743570083692",
       "title": "한샘리하우스 바로디자인 대리점",
-      "organization": "리모델링 전문가 정규직 / 4대보험 / 경력무관 모집합니다",
+      "organization": "오늘 마감! 놓치지 마세요! 스크랩",
       "category": "short",
       "track": "short",
       "region": "군포",
@@ -406,7 +408,7 @@
       "source": "잡코리아 안양",
       "sourceType": "job-board",
       "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49107809?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=14&sc=630",
-      "description": "스크랩 리모델링 전문가 정규직 / 4대보험 / 경력무관 모집합니다 경기 군포시 인테리어·자재, 실내디자이너, 공간디자이너, 건축기사 즉시 지원 경력무관"
+      "description": "오늘 마감! 놓치지 마세요! 스크랩 리모델링 전문가 정규직 / 4대보험 / 경력무관 모집합니다 경기 군포시 인테리어·자재, 실내디자이너, 공간디자이너, 건축기사 즉시 지원 경력무관"
     }
   ]
 }
