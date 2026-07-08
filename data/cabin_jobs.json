@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-07-07T23:32:28.971168",
+    "generatedAt": "2026-07-08T23:41:43.405081",
     "source": "cabin",
     "count": 4,
     "errors": [
@@ -12,7 +12,7 @@
   },
   "jobs": [
     {
-      "id": "cabin-9034180671377712071",
+      "id": "cabin-6418722445846718526",
       "title": "2026년 상반기 객실승무원 신입사원 채용(서울/부산)",
       "organization": "제주항공",
       "category": "cabin",
@@ -28,7 +28,7 @@
       "description": "제주항공 채용 | 2026년 신입 객실승무원 채용(서울/부산)"
     },
     {
-      "id": "cabin-5383078151792973991",
+      "id": "cabin-252949869815816815",
       "title": "진에어 채용",
       "organization": "진에어",
       "category": "cabin",
@@ -44,7 +44,7 @@
       "description": "채용공고 내용 공고명 2026년 상반기 신입 객실승무원 채용 (서울) 접수기간 2026.01.15(목) 17:00 ~ 2026.01.22(목) 17:00 접수마감 <p><br></p><p><br style=\"clear:both;\"></p><div style=\"text-align: center;\" align=\"center\"><br></div><p></p><div style=\"text-align"
     },
     {
-      "id": "cabin-8296421484781141749",
+      "id": "cabin-2516649674031858595",
       "title": "é¦é¡µ",
       "organization": "중국동방항공",
       "category": "cabin",
@@ -60,7 +60,7 @@
       "description": "ï»¿ é¦é¡µ æèé¡¹ç® Recruitment project æ ¡å­æè Campus recruitment é£è¡å­¦çæè Pilot recruitment ä¹å¡ãå®å ¨åæè Crew recruitment ç¤¾ä¼æè Social recruitment å é¨æè Internal recruitment"
     },
     {
-      "id": "cabin-8745017613973896209",
+      "id": "cabin-4829487230646483016",
       "title": "ä¸­å½åæ¹èªç©ºæèç½",
       "organization": "중국남방항공",
       "category": "cabin",
