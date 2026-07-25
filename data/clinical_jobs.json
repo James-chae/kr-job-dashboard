@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-07-24T23:38:27.581661",
+    "generatedAt": "2026-07-25T23:36:38.122654",
     "source": "clinical",
-    "count": 30,
+    "count": 27,
     "sources": [
       "https://m.saramin.co.kr/job-industry/job-list?cat_kewd=559&is_detail_search=y",
       "https://www.seoulmc.or.kr/site/recruit/recruitList.do",
@@ -13,23 +13,7 @@
   },
   "jobs": [
     {
-      "id": "clinical-4761751376508524136",
-      "title": "홀터 분석 담당 임상병리사 (주)씨어스테크놀로지 제주전체 합격 시 50만원 ~08.14(금)",
-      "organization": "사람인",
-      "category": "clinical",
-      "track": "clinical",
-      "region": "서울/경기",
-      "employmentType": "임상병리",
-      "postedAt": "",
-      "deadline": "",
-      "status": "unknown",
-      "source": "사람인 임상병리",
-      "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54470071",
-      "description": "홀터 분석 담당 임상병리사 (주)씨어스테크놀로지 제주전체 합격 시 50만원 ~08.14(금)"
-    },
-    {
-      "id": "clinical-2040343677090986374",
+      "id": "clinical-940796940326004783",
       "title": "[향남두리ENT] 임상병리사 채용합니다. 향남두리이비인후과 경기 화성시 경력무관 ~09.21(월)",
       "organization": "사람인",
       "category": "clinical",
@@ -41,44 +25,12 @@
       "status": "unknown",
       "source": "사람인 임상병리",
       "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54541469&t_category=job_recruit&t_content=SRI_M_050_2LV-JOB_MIX_RCT_NONMEM&referNonce=caff4fa9126cab100b44&",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54541469&t_category=job_recruit&t_content=SRI_M_050_2LV-JOB_MIX_RCT_NONMEM&referNonce=3f7d5136f9ece3bdf8f1&",
       "description": "[향남두리ENT] 임상병리사 채용합니다. 향남두리이비인후과 경기 화성시 경력무관 ~09.21(월) 스크랩"
     },
     {
-      "id": "clinical-4734528444804727503",
-      "title": "의료 지원 TOP100 2026년 제10회 성남시의료원 직원 채용(임상병리사) 경기 성남시 수정구 성과급 성남시의료원 17시 마감",
-      "organization": "사람인",
-      "category": "clinical",
-      "track": "clinical",
-      "region": "경기",
-      "employmentType": "임상병리",
-      "postedAt": "",
-      "deadline": "",
-      "status": "unknown",
-      "source": "사람인 임상병리",
-      "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54482802&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "의료 지원 TOP100 2026년 제10회 성남시의료원 직원 채용(임상병리사) 경기 성남시 수정구 성과급 성남시의료원 17시 마감 스크랩 자소서 문항"
-    },
-    {
-      "id": "clinical-7203131661266982076",
-      "title": "자소서 문항",
-      "organization": "사람인",
-      "category": "clinical",
-      "track": "clinical",
-      "region": "경기",
-      "employmentType": "임상병리",
-      "postedAt": "",
-      "deadline": "",
-      "status": "unknown",
-      "source": "사람인 임상병리",
-      "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54482802&t_category=top1000&t_content=generic&tab=introduce",
-      "description": "의료 지원 TOP100 2026년 제10회 성남시의료원 직원 채용(임상병리사) 경기 성남시 수정구 성과급 성남시의료원 17시 마감 스크랩 자소서 문항"
-    },
-    {
-      "id": "clinical-7136282748956137520",
-      "title": "진단검사의학과 임상병리사 채용/경력자우대 부산 수영구 경력3년↑ 학력무관 광안자모병원 기업이미지 ~08.02(일)",
+      "id": "clinical-5207809515102184828",
+      "title": "진단검사의학과 임상병리사 채용/경력자우대 부산 수영구 경력3년↑ 학력무관 광안자모병원 기업이미지 D-7",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -90,11 +42,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54363043&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "진단검사의학과 임상병리사 채용/경력자우대 부산 수영구 경력3년↑ 학력무관 광안자모병원 기업이미지 ~08.02(일) 스크랩 입사지원"
+      "description": "진단검사의학과 임상병리사 채용/경력자우대 부산 수영구 경력3년↑ 학력무관 광안자모병원 기업이미지 D-7 스크랩 입사지원"
     },
     {
-      "id": "clinical-5397502639482352696",
-      "title": "[강남베드로병원] 신경검사실 임상병리사 채용 서울 강남구 경력무관 초대졸↑ 강남베드로병원 기업이미지 ~09.14(월)",
+      "id": "clinical-4235988608501678458",
+      "title": "의료 지원 급상승 [강남베드로병원] 신경검사실 임상병리사 채용 서울 강남구 경력무관 초대졸↑ 강남베드로병원 기업이미지 ~09.14(월)",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -106,10 +58,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54486294&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[강남베드로병원] 신경검사실 임상병리사 채용 서울 강남구 경력무관 초대졸↑ 강남베드로병원 기업이미지 ~09.14(월) 스크랩 입사지원"
+      "description": "의료 지원 급상승 [강남베드로병원] 신경검사실 임상병리사 채용 서울 강남구 경력무관 초대졸↑ 강남베드로병원 기업이미지 ~09.14(월) 스크랩 입사지원"
     },
     {
-      "id": "clinical-5901662790722336920",
+      "id": "clinical-5023802188487470714",
       "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (인천) 인천 부평구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -125,8 +77,8 @@
       "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (인천) 인천 부평구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-4049840840579522150",
-      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (동대문) 서울 성동구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시",
+      "id": "clinical-7000060102221835451",
+      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (동대문) 서울 성동구 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -138,10 +90,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54213307&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (동대문) 서울 성동구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (동대문) 서울 성동구 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-4055394333345624047",
+      "id": "clinical-1929215554536378914",
       "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (파주) 경기 파주시 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -157,8 +109,8 @@
       "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (파주) 경기 파주시 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-1602427785086083570",
-      "title": "의료 스크랩 급상승 [향남두리ENT] 임상병리사 채용합니다. 경기 화성시 상여금 향남두리이비인후과 ~09.21(월)",
+      "id": "clinical-4501620643758772425",
+      "title": "[향남두리ENT] 임상병리사 채용합니다. 경기 화성시 상여금 향남두리이비인후과 ~09.21(월)",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -170,11 +122,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54541469&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "의료 스크랩 급상승 [향남두리ENT] 임상병리사 채용합니다. 경기 화성시 상여금 향남두리이비인후과 ~09.21(월) 스크랩 입사지원"
+      "description": "[향남두리ENT] 임상병리사 채용합니다. 경기 화성시 상여금 향남두리이비인후과 ~09.21(월) 스크랩 입사지원"
     },
     {
-      "id": "clinical-6790716411236046894",
-      "title": "의료 지원 급상승 [녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (평택) 경기 화성시 동탄구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시",
+      "id": "clinical-4599225663670439385",
+      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (평택) 경기 화성시 동탄구 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -186,11 +138,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54528846&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "의료 지원 급상승 [녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (평택) 경기 화성시 동탄구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (평택) 경기 화성시 동탄구 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-4725423470898159038",
-      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (강남) 서울 강남구 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
+      "id": "clinical-4239270517934557386",
+      "title": "영업·판매·무역 지원 급상승 [녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (강남) 서울 강남구 외 자유로운 연차사용 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -202,10 +154,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54528785&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (강남) 서울 강남구 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+      "description": "영업·판매·무역 지원 급상승 [녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (강남) 서울 강남구 외 자유로운 연차사용 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-442050886714718597",
+      "id": "clinical-5732597198602904882",
       "title": "임상병리사 채용 정규직 채용합다 .인원충원2명,신졸/경력1-2년 대구 수성구 상여금 오희종신경과 ~08.08(토)",
       "organization": "사람인",
       "category": "clinical",
@@ -221,7 +173,7 @@
       "description": "임상병리사 채용 정규직 채용합다 .인원충원2명,신졸/경력1-2년 대구 수성구 상여금 오희종신경과 ~08.08(토) 스크랩 입사지원"
     },
     {
-      "id": "clinical-384635940795365226",
+      "id": "clinical-2795477894200125592",
       "title": "임상병리사 채용 정규직 (인원충원2명,신졸,경력1-2년차) 대구 수성구 상여금 오희종신경과 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -237,8 +189,8 @@
       "description": "임상병리사 채용 정규직 (인원충원2명,신졸,경력1-2년차) 대구 수성구 상여금 오희종신경과 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-3683620106461609777",
-      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (창원) 경남 창원시 의창구 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
+      "id": "clinical-2913960018227296277",
+      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (창원) 경남 창원시 의창구 외 자유로운 육아휴직 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -250,10 +202,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54281609&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (창원) 경남 창원시 의창구 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (창원) 경남 창원시 의창구 외 자유로운 육아휴직 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-1777801800259686762",
+      "id": "clinical-4687755564702014587",
       "title": "합격 시 50만원 홀터 분석 담당 임상병리사 채용(제주) 제주 제주시 외 경력2년↑ 대졸↑ (주)씨어스 기업이미지 ~08.14(금)",
       "organization": "사람인",
       "category": "clinical",
@@ -269,8 +221,8 @@
       "description": "합격 시 50만원 홀터 분석 담당 임상병리사 채용(제주) 제주 제주시 외 경력2년↑ 대졸↑ (주)씨어스 기업이미지 ~08.14(금) 스크랩 입사지원"
     },
     {
-      "id": "clinical-323110840266764282",
-      "title": "[문산중앙병원] 임상병리사 모집합니다 [신입직.] 경기 파주시 신입 초대졸↑ (의)강영의료재단 기업이미지 D-7",
+      "id": "clinical-2777865208529924135",
+      "title": "[문산중앙병원] 임상병리사 모집합니다 [신입직.] 경기 파주시 신입 초대졸↑ (의)강영의료재단 기업이미지 D-6",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -282,10 +234,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54350436&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[문산중앙병원] 임상병리사 모집합니다 [신입직.] 경기 파주시 신입 초대졸↑ (의)강영의료재단 기업이미지 D-7 스크랩 입사지원"
+      "description": "[문산중앙병원] 임상병리사 모집합니다 [신입직.] 경기 파주시 신입 초대졸↑ (의)강영의료재단 기업이미지 D-6 스크랩 입사지원"
     },
     {
-      "id": "clinical-8308436467131721111",
+      "id": "clinical-1906259049524234129",
       "title": "임상병리사 채용 경기 이천시 사택제공 금강메디컬의원 기업이미지 ~08.14(금)",
       "organization": "사람인",
       "category": "clinical",
@@ -301,7 +253,7 @@
       "description": "임상병리사 채용 경기 이천시 사택제공 금강메디컬의원 기업이미지 ~08.14(금) 스크랩 입사지원"
     },
     {
-      "id": "clinical-65793846258626284",
+      "id": "clinical-5704328501618150388",
       "title": "더조은 내과 임상병리사(경력직) 경남 진주시 경력3년↑ 초대졸↑ 더조은내과 ~09.13(일)",
       "organization": "사람인",
       "category": "clinical",
@@ -317,7 +269,7 @@
       "description": "더조은 내과 임상병리사(경력직) 경남 진주시 경력3년↑ 초대졸↑ 더조은내과 ~09.13(일) 스크랩 입사지원"
     },
     {
-      "id": "clinical-3530432688775444060",
+      "id": "clinical-4875234665042422791",
       "title": "[녹십자 그룹] GC셀 임상병리사 모집 (대구, 계약직) 대구 남구 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -333,7 +285,7 @@
       "description": "[녹십자 그룹] GC셀 임상병리사 모집 (대구, 계약직) 대구 남구 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-5373233170479640883",
+      "id": "clinical-1072282591440884197",
       "title": "안산 수면다원검사를 진행할 임상병리사분을 모십니다 경기 안산시 단원구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~08.07(금)",
       "organization": "사람인",
       "category": "clinical",
@@ -349,8 +301,8 @@
       "description": "안산 수면다원검사를 진행할 임상병리사분을 모십니다 경기 안산시 단원구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~08.07(금) 스크랩 입사지원"
     },
     {
-      "id": "clinical-4958550873981678328",
-      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (안양) 경기 안양시 동안구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시",
+      "id": "clinical-6256190368384262140",
+      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (안양) 경기 안양시 동안구 외 자유로운 연차사용 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -362,10 +314,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54310512&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (안양) 경기 안양시 동안구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (안양) 경기 안양시 동안구 외 자유로운 연차사용 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-8456851199508474874",
+      "id": "clinical-4987952341686791878",
       "title": "[녹십자 그룹] GC셀 임상병리사 모집 (인천, 계약직) 인천 중구 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -381,7 +333,7 @@
       "description": "[녹십자 그룹] GC셀 임상병리사 모집 (인천, 계약직) 인천 중구 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-8336412697896239935",
+      "id": "clinical-3769471840074116953",
       "title": "이원의료재단 세포유전학 경력직 임상병리사 채용 공고 인천 연수구 경력 초대졸↑ (의)이원의료재단 기업이미지 ~09.01(화)",
       "organization": "사람인",
       "category": "clinical",
@@ -397,8 +349,8 @@
       "description": "이원의료재단 세포유전학 경력직 임상병리사 채용 공고 인천 연수구 경력 초대졸↑ (의)이원의료재단 기업이미지 ~09.01(화) 스크랩 입사지원"
     },
     {
-      "id": "clinical-5506736803634313650",
-      "title": "서울 강남 수면다원검사를 진행할 임상병리사분을 모십니다 서울 강남구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-6",
+      "id": "clinical-4100364755014111921",
+      "title": "서울 강남 수면다원검사를 진행할 임상병리사분을 모십니다 서울 강남구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-5",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -410,11 +362,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54049545&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "서울 강남 수면다원검사를 진행할 임상병리사분을 모십니다 서울 강남구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-6 스크랩 입사지원"
+      "description": "서울 강남 수면다원검사를 진행할 임상병리사분을 모십니다 서울 강남구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-5 스크랩 입사지원"
     },
     {
-      "id": "clinical-7283593733242267248",
-      "title": "[오전 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 D-6",
+      "id": "clinical-3640140354486436876",
+      "title": "[오전 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 D-5",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -426,11 +378,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54331260&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[오전 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 D-6 스크랩 입사지원"
+      "description": "[오전 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 D-5 스크랩 입사지원"
     },
     {
-      "id": "clinical-9147494535223960753",
-      "title": "[오후 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 D-6",
+      "id": "clinical-5815421973210370011",
+      "title": "[오후 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 D-5",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -442,11 +394,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54331256&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[오후 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 D-6 스크랩 입사지원"
+      "description": "[오후 인턴] 검사실 임상병리사 인턴 채용 공고 인천 연수구 신입·경력 초대졸↑ 한미의원 D-5 스크랩 입사지원"
     },
     {
-      "id": "clinical-47013107415025127",
-      "title": "경기 이천 수면다원검사를 진행할 임상병리사분을 모십니다 경기 이천시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-5",
+      "id": "clinical-1624224725855221058",
+      "title": "경기 이천 수면다원검사를 진행할 임상병리사분을 모십니다 경기 이천시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-4",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -458,11 +410,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54323306&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "경기 이천 수면다원검사를 진행할 임상병리사분을 모십니다 경기 이천시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-5 스크랩 입사지원"
+      "description": "경기 이천 수면다원검사를 진행할 임상병리사분을 모십니다 경기 이천시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-4 스크랩 입사지원"
     },
     {
-      "id": "clinical-6047479494458798007",
-      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (전주) 전북 전주시 덕진구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시",
+      "id": "clinical-335528234067564600",
+      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (전주) 전북 전주시 덕진구 외 자유로운 육아휴직 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -474,11 +426,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54281544&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (전주) 전북 전주시 덕진구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (전주) 전북 전주시 덕진구 외 자유로운 육아휴직 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-6791546863598126110",
-      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (광주) 전남광주 북구 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시",
+      "id": "clinical-3152729098478436509",
+      "title": "영업·판매·무역 지원 급상승 [녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (광주) 전남광주 북구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -490,7 +442,7 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=54281502&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (광주) 전남광주 북구 외 평균근속 2~5년 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+      "description": "영업·판매·무역 지원 급상승 [녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (광주) 전남광주 북구 외 성과급 연 1회 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     }
   ]
 }
