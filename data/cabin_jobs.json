@@ -1,18 +1,18 @@
 {
   "meta": {
-    "generatedAt": "2026-08-08T23:01:47.975889",
+    "generatedAt": "2026-08-09T23:04:37.752080",
     "source": "cabin",
     "count": 4,
     "errors": [
       "https://koreanair.recruiter.co.kr/career/jobs/99647: 404 Client Error: Not Found for url: https://koreanair.recruiter.co.kr/career/jobs/99647",
-      "https://flyasiana.recruiter.co.kr/career/jobs/88541: HTTPSConnectionPool(host='flyasiana.recruiter.co.kr', port=443): Max retries exceeded with url: /career/jobs/88541 (Caused by ConnectTimeoutError(<HTTPSConnection(host='flyasiana.recruiter.co.kr', port=443) at 0x7feabd553ad0>, 'Connection to flyasiana.recruiter.co.kr timed out. (connect timeout=20)'))",
+      "https://flyasiana.recruiter.co.kr/career/jobs/88541: HTTPSConnectionPool(host='flyasiana.recruiter.co.kr', port=443): Max retries exceeded with url: /career/jobs/88541 (Caused by ConnectTimeoutError(<HTTPSConnection(host='flyasiana.recruiter.co.kr', port=443) at 0x7f3fca7577d0>, 'Connection to flyasiana.recruiter.co.kr timed out. (connect timeout=20)'))",
       "https://twayair.recruiter.co.kr/career/jobs/82723: 404 Client Error: Not Found for url: https://twayair.recruiter.co.kr/career/jobs/82723"
     ],
     "notes": "Foreign airline encoding cleanup applied for China/HK sources."
   },
   "jobs": [
     {
-      "id": "cabin-8691525897327417860",
+      "id": "cabin-4167020761502475637",
       "title": "2026년 상반기 객실승무원 신입사원 채용(서울/부산)",
       "organization": "제주항공",
       "category": "cabin",
@@ -28,7 +28,7 @@
       "description": "제주항공 채용 | 2026년 신입 객실승무원 채용(서울/부산)"
     },
     {
-      "id": "cabin-3213559257611048700",
+      "id": "cabin-7270103446005687882",
       "title": "진에어 채용",
       "organization": "진에어",
       "category": "cabin",
@@ -44,7 +44,7 @@
       "description": "10개씩 보기 20개씩 보기 30개씩 보기 50개씩 보기 100개씩 보기 검색"
     },
     {
-      "id": "cabin-6747763791102303903",
+      "id": "cabin-3885113141527930318",
       "title": "é¦é¡µ",
       "organization": "중국동방항공",
       "category": "cabin",
@@ -60,7 +60,7 @@
       "description": "ï»¿ é¦é¡µ æèé¡¹ç® Recruitment project æ ¡å­æè Campus recruitment é£è¡å­¦çæè Pilot recruitment ä¹å¡ãå®å ¨åæè Crew recruitment ç¤¾ä¼æè Social recruitment å é¨æè Internal recruitment"
     },
     {
-      "id": "cabin-8589734940518380035",
+      "id": "cabin-1813300596912923724",
       "title": "ä¸­å½åæ¹èªç©ºæèç½",
       "organization": "중국남방항공",
       "category": "cabin",
