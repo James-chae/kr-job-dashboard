@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generatedAt": "2026-09-04T00:21:24.567118",
+    "generatedAt": "2026-09-05T00:21:56.183106",
     "source": "cabin",
     "count": 3,
     "errors": [
       "https://koreanair.recruiter.co.kr/career/jobs/99647: 404 Client Error: Not Found for url: https://koreanair.recruiter.co.kr/career/jobs/99647",
-      "https://flyasiana.recruiter.co.kr/career/jobs/88541: HTTPSConnectionPool(host='flyasiana.recruiter.co.kr', port=443): Max retries exceeded with url: /career/jobs/88541 (Caused by ConnectTimeoutError(<HTTPSConnection(host='flyasiana.recruiter.co.kr', port=443) at 0x7ffa3092d1c0>, 'Connection to flyasiana.recruiter.co.kr timed out. (connect timeout=20)'))",
+      "https://flyasiana.recruiter.co.kr/career/jobs/88541: HTTPSConnectionPool(host='flyasiana.recruiter.co.kr', port=443): Max retries exceeded with url: /career/jobs/88541 (Caused by ConnectTimeoutError(<HTTPSConnection(host='flyasiana.recruiter.co.kr', port=443) at 0x7fcbc55b4920>, 'Connection to flyasiana.recruiter.co.kr timed out. (connect timeout=20)'))",
       "https://jejuair.recruiter.co.kr/career/jobs/103719: 404 Client Error: Not Found for url: https://jejuair.recruiter.co.kr/career/jobs/103719",
       "https://twayair.recruiter.co.kr/career/jobs/82723: 404 Client Error: Not Found for url: https://twayair.recruiter.co.kr/career/jobs/82723"
     ],
@@ -13,7 +13,7 @@
   },
   "jobs": [
     {
-      "id": "cabin-6354412609769213109",
+      "id": "cabin-5088613188587903617",
       "title": "진에어 채용",
       "organization": "진에어",
       "category": "cabin",
@@ -29,7 +29,7 @@
       "description": "10개씩 보기 20개씩 보기 30개씩 보기 50개씩 보기 100개씩 보기 검색"
     },
     {
-      "id": "cabin-6189252566621813708",
+      "id": "cabin-3921126268912238036",
       "title": "é¦é¡µ",
       "organization": "중국동방항공",
       "category": "cabin",
@@ -45,7 +45,7 @@
       "description": "ï»¿ é¦é¡µ æèé¡¹ç® Recruitment project æ ¡å­æè Campus recruitment é£è¡å­¦çæè Pilot recruitment ä¹å¡ãå®å ¨åæè Crew recruitment ç¤¾ä¼æè Social recruitment å é¨æè Internal recruitment"
     },
     {
-      "id": "cabin-7303659583930876283",
+      "id": "cabin-6420807800429402513",
       "title": "ä¸­å½åæ¹èªç©ºæèç½",
       "organization": "중국남방항공",
       "category": "cabin",
