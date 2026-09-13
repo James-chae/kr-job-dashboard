@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-12T00:35:50.694587",
+    "generatedAt": "2026-09-13T00:15:12.304397",
     "source": "anyang-living-area-v3",
     "count": 0,
     "listUrls": [
@@ -9,7 +9,7 @@
       "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C"
     ],
     "errors": [
-      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7f90f79bd670>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
+      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7fc4bf2aa8d0>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
     ],
     "rawCount": 0,
     "keptCount": 0,
