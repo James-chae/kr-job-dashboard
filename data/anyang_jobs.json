@@ -1,16 +1,18 @@
 {
   "meta": {
-    "generatedAt": "2026-09-17T00:51:24.338416",
+    "generatedAt": "2026-09-18T00:50:57.521625",
     "source": "anyang-living-area-v3",
-    "count": 21,
+    "count": 19,
     "listUrls": [
       "https://www.saramin.co.kr/zf_user/jobs/list/domestic?searchword=%EC%95%88%EC%96%91&loc_cd=101000,101020,101030",
       "https://www.alba.co.kr/job/DetailList.asp?area=13110",
       "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C"
     ],
-    "errors": [],
-    "rawCount": 21,
-    "keptCount": 21,
+    "errors": [
+      "https://www.saramin.co.kr/zf_user/jobs/list/domestic?searchword=%EC%95%88%EC%96%91&loc_cd=101000,101020,101030: HTTPSConnectionPool(host='www.saramin.co.kr', port=443): Max retries exceeded with url: /zf_user/jobs/list/domestic?searchword=%EC%95%88%EC%96%91&loc_cd=101000,101020,101030 (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.saramin.co.kr', port=443) at 0x7f0dc6887fe0>, 'Connection to www.saramin.co.kr timed out. (connect timeout=20)'))"
+    ],
+    "rawCount": 19,
+    "keptCount": 19,
     "notes": [
       "living-area focused",
       "job-board noise cleanup",
@@ -19,22 +21,7 @@
   },
   "jobs": [
     {
-      "id": "anyang-7725940360525352249",
-      "title": "[안양 병의원] 온라인광고마케팅 / 웹디자인 정규직 채용 (주)하나린 서울전체 외 신입/경력 학력무관 인기있는 ~10.15(목)",
-      "organization": "[안양 병의원] 온라인광고마케팅 / 웹디자인 정규직 채용",
-      "category": "short",
-      "track": "short",
-      "region": "안양",
-      "employmentType": "정규직",
-      "postedAt": "",
-      "deadline": "",
-      "source": "사람인 안양",
-      "sourceType": "job-board",
-      "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?view_type=list&rec_idx=55039597",
-      "description": "[안양 병의원] 온라인광고마케팅 / 웹디자인 정규직 채용 (주)하나린 서울전체 외 신입/경력 학력무관 인기있는 ~10.15(목)"
-    },
-    {
-      "id": "anyang-6110666480360012275",
+      "id": "anyang-6885471730816751235",
       "title": "[의왕역] 롯데렌터카 장기렌트 DB영업 영업사원 채용",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -49,7 +36,7 @@
       "description": "[의왕역] 롯데렌터카 장기렌트 DB영업 영업사원 채용"
     },
     {
-      "id": "anyang-1698686614485580692",
+      "id": "anyang-5113852240683883436",
       "title": "카앤모어㈜",
       "organization": "신입 지원 가능 스크랩",
       "category": "short",
@@ -64,7 +51,7 @@
       "description": "신입 지원 가능 스크랩 [의왕역] 롯데렌터카 장기렌트 DB영업 영업사원 채용 경기 의왕시 외 9 렌탈·임대·리스, 서비스영업 즉시 지원 신입·경력"
     },
     {
-      "id": "anyang-2917960454266975767",
+      "id": "anyang-3743114541905446332",
       "title": "㈜플러스종합건설",
       "organization": "(가칭)초평중 신축공사 안전관리자 모집",
       "category": "short",
@@ -79,22 +66,7 @@
       "description": "스크랩 (가칭)초평중 신축공사 안전관리자 모집 경기 의왕시 외 13 건설·시공·토목·조경, 시설관리자, 현장관리자, 안전관리자 즉시 지원 경력"
     },
     {
-      "id": "anyang-1893489996024446796",
-      "title": "㈜앤텍",
-      "organization": "자동차 와이어링 하네스 원가.생산기술.설계 경력자 채용",
-      "category": "short",
-      "track": "short",
-      "region": "안양",
-      "employmentType": "단기/알바",
-      "postedAt": "",
-      "deadline": "",
-      "source": "잡코리아 안양",
-      "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/50006513?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=1&sc=808",
-      "description": "스크랩 자동차 와이어링 하네스 원가.생산기술.설계 경력자 채용 경기 안양시 자동차·조선·철강·항공, 하드웨어엔지니어 즉시 지원 AD 경력2년↑"
-    },
-    {
-      "id": "anyang-1261792248772989571",
+      "id": "anyang-6510948071408735524",
       "title": "컴앤프로정보기술㈜",
       "organization": "신입 지원 가능 스크랩",
       "category": "short",
@@ -109,7 +81,7 @@
       "description": "신입 지원 가능 스크랩 CATIA 설계 및 Visual Basic 프로그램 개발 모집 경기 의왕시 IT컨설팅, 시스템엔지니어, 소프트웨어개발자, 설계엔지니어 즉시 지원 신입·경력2년↑"
     },
     {
-      "id": "anyang-560968900475876268",
+      "id": "anyang-4181068303785101464",
       "title": "(안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -124,7 +96,7 @@
       "description": "(안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X"
     },
     {
-      "id": "anyang-1543490495971980413",
+      "id": "anyang-295565093691591714",
       "title": "㈜극동글로비스",
       "organization": "(안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X",
       "category": "short",
@@ -139,7 +111,7 @@
       "description": "스크랩 (안양,의왕,군포,과천,시흥) 운전직 채용/운전만/초보,1종가능/비용X 경기 군포시 외 5 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관 • 화물복지카드 , 공휴일 휴무"
     },
     {
-      "id": "anyang-2054359688333047240",
+      "id": "anyang-8146264581867172612",
       "title": "차이홍&대교랭귀지스퀘어 안양점 선생님을 모집합니다.군포/안양/의왕/과천",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -154,7 +126,7 @@
       "description": "차이홍&대교랭귀지스퀘어 안양점 선생님을 모집합니다.군포/안양/의왕/과천"
     },
     {
-      "id": "anyang-2924189541841125150",
+      "id": "anyang-3394150383000868922",
       "title": "㈜대교 안양동차이홍",
       "organization": "믿고보는 대기업",
       "category": "short",
@@ -169,22 +141,7 @@
       "description": "믿고보는 대기업 스크랩 차이홍&대교랭귀지스퀘어 안양점 선생님을 모집합니다.군포/안양/의왕/과천 경기 안양시 학습지·방문교육, 학습지·방문교사 즉시 지원 경력무관"
     },
     {
-      "id": "anyang-3184971614917751333",
-      "title": "광동건강원㈜",
-      "organization": "광동건강원 건강즙 판매 영업사원 1기 모집",
-      "category": "short",
-      "track": "short",
-      "region": "과천",
-      "employmentType": "단기/알바",
-      "postedAt": "",
-      "deadline": "",
-      "source": "잡코리아 안양",
-      "sourceType": "job-board",
-      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49997092?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=2&sc=808",
-      "description": "스크랩 광동건강원 건강즙 판매 영업사원 1기 모집 경기 과천시 식품가공, 제품영업 건별 200,000원~ 즉시 지원 AD 경력무관"
-    },
-    {
-      "id": "anyang-3286830782568014817",
+      "id": "anyang-2536291005060222436",
       "title": "[군포,안양,의왕,과천,광명]센터 운전기사님 채용/주5일/1종가능/운전만",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -199,7 +156,7 @@
       "description": "[군포,안양,의왕,과천,광명]센터 운전기사님 채용/주5일/1종가능/운전만"
     },
     {
-      "id": "anyang-8318262483924367109",
+      "id": "anyang-7671206092779795518",
       "title": "극동통상㈜",
       "organization": "[군포,안양,의왕,과천,광명]센터 운전기사님 채용/주5일/1종가능/운전만",
       "category": "short",
@@ -214,7 +171,7 @@
       "description": "스크랩 [군포,안양,의왕,과천,광명]센터 운전기사님 채용/주5일/1종가능/운전만 경기 군포시 외 5 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관"
     },
     {
-      "id": "anyang-7517876164435955603",
+      "id": "anyang-1875805883453009478",
       "title": "(안양,군포,과천,의왕,광명)경기물류 운전기사 채용/운전만/주5일/초보,1종",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -229,7 +186,7 @@
       "description": "(안양,군포,과천,의왕,광명)경기물류 운전기사 채용/운전만/주5일/초보,1종"
     },
     {
-      "id": "anyang-2485467465506960793",
+      "id": "anyang-2756577924501189574",
       "title": "㈜극동글로비스",
       "organization": "(안양,군포,과천,의왕,광명)경기물류 운전기사 채용/운전만/주5일/초보,1종",
       "category": "short",
@@ -244,7 +201,7 @@
       "description": "스크랩 (안양,군포,과천,의왕,광명)경기물류 운전기사 채용/운전만/주5일/초보,1종 경기 의왕시 외 5 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관 • 화물복지카드 , 공휴일 휴무"
     },
     {
-      "id": "anyang-7299342269947073524",
+      "id": "anyang-62600413602293555",
       "title": "[의왕,광명,안양,군포,과천] 운전기사님 모집/주5일/초보,1종가능/운전만.",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -259,7 +216,7 @@
       "description": "[의왕,광명,안양,군포,과천] 운전기사님 모집/주5일/초보,1종가능/운전만."
     },
     {
-      "id": "anyang-2529076219974539305",
+      "id": "anyang-3297305163967515989",
       "title": "㈜극동글로비스",
       "organization": "[의왕,광명,안양,군포,과천] 운전기사님 모집/주5일/초보,1종가능/운전만.",
       "category": "short",
@@ -274,7 +231,22 @@
       "description": "스크랩 [의왕,광명,안양,군포,과천] 운전기사님 모집/주5일/초보,1종가능/운전만. 경기 의왕시 외 5 물류·운송·배송, 납품·배송기사, 수행·운전기사, 화물·중장비기사 월급 300~800만원 즉시 지원 경력무관"
     },
     {
-      "id": "anyang-1525913484063298722",
+      "id": "anyang-5410409400430306700",
+      "title": "광동건강원㈜",
+      "organization": "광동건강원 건강즙 판매 영업사원 1기 모집",
+      "category": "short",
+      "track": "short",
+      "region": "과천",
+      "employmentType": "단기/알바",
+      "postedAt": "",
+      "deadline": "",
+      "source": "잡코리아 안양",
+      "sourceType": "job-board",
+      "url": "https://www.jobkorea.co.kr/Recruit/GI_Read/49997092?Oem_Code=C1&logpath=1&stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C&listno=3&sc=808",
+      "description": "스크랩 광동건강원 건강즙 판매 영업사원 1기 모집 경기 과천시 식품가공, 제품영업 건별 200,000원~ 즉시 지원 AD 경력무관"
+    },
+    {
+      "id": "anyang-2044476093887832211",
       "title": "한샘리하우스 바로디자인 대리점",
       "organization": "리모델링 전문가 정규직 / 4대보험 / 경력무관 모집합니다",
       "category": "short",
@@ -289,7 +261,7 @@
       "description": "스크랩 리모델링 전문가 정규직 / 4대보험 / 경력무관 모집합니다 경기 군포시 인테리어·자재, 실내디자이너, 공간디자이너, 건축기사 즉시 지원 경력무관"
     },
     {
-      "id": "anyang-6050911681713644830",
+      "id": "anyang-8595960332469878425",
       "title": "게이트맨프라자 영광열쇠",
       "organization": "도어락 / 비디오폰 / CCTV설치판매, A/S 기사 모집 [주업무 도어락분야]",
       "category": "short",
@@ -304,7 +276,7 @@
       "description": "스크랩 도어락 / 비디오폰 / CCTV설치판매, A/S 기사 모집 [주업무 도어락분야] 경기 안양시 외 5 정비·A/S·카센터, 설치·수리기사, 정비기사 월급 270만원~ 즉시 지원 경력무관"
     },
     {
-      "id": "anyang-6048984765029993963",
+      "id": "anyang-203329722734159044",
       "title": "안양 군포 의왕 과천 산후관리사 채용(위드맘케어 ...",
       "organization": "잡코리아 안양",
       "category": "short",
@@ -319,7 +291,7 @@
       "description": "안양 군포 의왕 과천 산후관리사 채용(위드맘케어 ..."
     },
     {
-      "id": "anyang-1710547674977007059",
+      "id": "anyang-7872860394357022140",
       "title": "(주) 위드맘케어",
       "organization": "안양 군포 의왕 과천 산후관리사 채용(위드맘케어 ...",
       "category": "short",
