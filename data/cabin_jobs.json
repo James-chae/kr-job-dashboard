@@ -1,11 +1,11 @@
 {
   "meta": {
-    "generatedAt": "2026-09-21T00:29:20.252822",
+    "generatedAt": "2026-09-22T01:07:05.136453",
     "source": "cabin",
     "count": 3,
     "errors": [
       "https://koreanair.recruiter.co.kr/career/jobs/99647: 404 Client Error: Not Found for url: https://koreanair.recruiter.co.kr/career/jobs/99647",
-      "https://flyasiana.recruiter.co.kr/career/jobs/88541: HTTPSConnectionPool(host='flyasiana.recruiter.co.kr', port=443): Max retries exceeded with url: /career/jobs/88541 (Caused by ConnectTimeoutError(<HTTPSConnection(host='flyasiana.recruiter.co.kr', port=443) at 0x7fb969350920>, 'Connection to flyasiana.recruiter.co.kr timed out. (connect timeout=20)'))",
+      "https://flyasiana.recruiter.co.kr/career/jobs/88541: HTTPSConnectionPool(host='flyasiana.recruiter.co.kr', port=443): Max retries exceeded with url: /career/jobs/88541 (Caused by ConnectTimeoutError(<HTTPSConnection(host='flyasiana.recruiter.co.kr', port=443) at 0x7f3dac26d1c0>, 'Connection to flyasiana.recruiter.co.kr timed out. (connect timeout=20)'))",
       "https://jejuair.recruiter.co.kr/career/jobs/103719: 404 Client Error: Not Found for url: https://jejuair.recruiter.co.kr/career/jobs/103719",
       "https://twayair.recruiter.co.kr/career/jobs/82723: HTTPSConnectionPool(host='twayair.recruiter.co.kr', port=443): Max retries exceeded with url: /career/jobs/82723 (Caused by NameResolutionError(\"HTTPSConnection(host='twayair.recruiter.co.kr', port=443): Failed to resolve 'twayair.recruiter.co.kr' ([Errno -2] Name or service not known)\"))"
     ],
@@ -13,7 +13,7 @@
   },
   "jobs": [
     {
-      "id": "cabin-787948773901252734",
+      "id": "cabin-6766248668836440800",
       "title": "진에어 채용",
       "organization": "진에어",
       "category": "cabin",
@@ -29,23 +29,23 @@
       "description": "10개씩 보기 20개씩 보기 30개씩 보기 50개씩 보기 100개씩 보기 검색"
     },
     {
-      "id": "cabin-8163286725405790817",
+      "id": "cabin-6931096131155563673",
       "title": "é¦é¡µ",
       "organization": "중국동방항공",
       "category": "cabin",
       "track": "cabin",
       "region": "중국",
       "employmentType": "승무원",
-      "postedAt": "",
+      "postedAt": "2026-09-21",
       "deadline": "",
       "status": "unknown",
       "source": "중국동방항공 채용",
       "sourceType": "airline-career-site",
       "url": "https://job.ceair.com/",
-      "description": "ï»¿ é¦é¡µ æèé¡¹ç® Recruitment project æ ¡å­æè Campus recruitment é£è¡å­¦çæè Pilot recruitment ä¹å¡ãå®å ¨åæè Crew recruitment ç¤¾ä¼æè Social recruitment å é¨æè Internal recruitment"
+      "description": "ï»¿ é¦é¡µ æèé¡¹ç® Recruitment project çè®¡åç®¡å¹ç Management trainee æ ¡å­æè Campus recruitment é£è¡å­¦çæè Pilot recruitment ä¹å¡ãå®å ¨åæè Crew recruitment ç¤¾ä¼æè Social recruit"
     },
     {
-      "id": "cabin-7120291992321676483",
+      "id": "cabin-1894655535886955507",
       "title": "ä¸­å½åæ¹èªç©ºæèç½",
       "organization": "중국남방항공",
       "category": "cabin",
