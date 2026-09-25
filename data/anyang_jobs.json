@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generatedAt": "2026-09-24T00:51:57.754418",
+    "generatedAt": "2026-09-25T00:46:36.752667",
     "source": "anyang-living-area-v3",
     "count": 1,
     "listUrls": [
@@ -9,7 +9,7 @@
       "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C"
     ],
     "errors": [
-      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7f6ea68a5250>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
+      "https://www.jobkorea.co.kr/Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C: HTTPSConnectionPool(host='www.jobkorea.co.kr', port=443): Max retries exceeded with url: /Search/?stext=%EC%95%88%EC%96%91+%EA%B5%B0%ED%8F%AC+%EC%9D%98%EC%99%95+%EA%B3%BC%EC%B2%9C (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.jobkorea.co.kr', port=443) at 0x7fd4ad734200>, 'Connection to www.jobkorea.co.kr timed out. (connect timeout=20)'))"
     ],
     "rawCount": 1,
     "keptCount": 1,
@@ -21,7 +21,7 @@
   },
   "jobs": [
     {
-      "id": "anyang-2157015026390687354",
+      "id": "anyang-5037619880854952445",
       "title": "[안양 병의원] 온라인광고마케팅 / 웹디자인 정규직 채용 (주)하나린 서울전체 외 신입/경력 학력무관 인기있는 ~10.15(목)",
       "organization": "[안양 병의원] 온라인광고마케팅 / 웹디자인 정규직 채용",
       "category": "short",
