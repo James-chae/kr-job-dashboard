@@ -1,8 +1,8 @@
 {
   "meta": {
-    "generatedAt": "2026-10-14T01:21:48.088824",
+    "generatedAt": "2026-10-15T00:48:39.188841",
     "source": "clinical",
-    "count": 32,
+    "count": 36,
     "sources": [
       "https://m.saramin.co.kr/job-industry/job-list?cat_kewd=559&is_detail_search=y",
       "https://www.seoulmc.or.kr/site/recruit/recruitList.do",
@@ -13,24 +13,56 @@
   },
   "jobs": [
     {
-      "id": "clinical-8150982980922337508",
-      "title": "수면기사/임상병리사 경력무관 채용 - 정규직 서울스페셜수면의원 서울 강남구 경력무관 ~11.12(목)",
+      "id": "clinical-8792200316659875363",
+      "title": "(재)에스디의학연구소 병리과 임상병리사 채용 재단법인 에스디 의학연구소 경기 용인시 기흥구 경력2년↑ ~11.14(토)",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
-      "region": "서울",
+      "region": "경기",
       "employmentType": "임상병리",
       "postedAt": "",
       "deadline": "",
       "status": "unknown",
       "source": "사람인 임상병리",
       "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55277727&t_category=job_recruit&t_content=SRI_M_050_2LV-JOB_MIX_RCT_NONMEM&referNonce=95852f82a02949a31efe&",
-      "description": "수면기사/임상병리사 경력무관 채용 - 정규직 서울스페셜수면의원 서울 강남구 경력무관 ~11.12(목) 스크랩"
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55295889&t_category=job_recruit&t_content=SRI_M_050_2LV-JOB_MIX_RCT_NONMEM&referNonce=b99f6270a30d60274bba&",
+      "description": "(재)에스디의학연구소 병리과 임상병리사 채용 재단법인 에스디 의학연구소 경기 용인시 기흥구 경력2년↑ ~11.14(토) 스크랩"
     },
     {
-      "id": "clinical-7315335165453057533",
-      "title": "합격 시 50만원 병리과 세포병리사 경력직 모집 경기 성남시 수정구 경력3년↑ 대졸↑ (의)엔티엘의료재단 기업이미지 D-3",
+      "id": "clinical-2703805927412207597",
+      "title": "용인 부속의원 의료기사(임상병리사) 채용 에스케이하이닉스(주) 경기 용인시 경력무관 ~10.21(수)",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "경기",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55286493&t_category=job_recruit&t_content=SRI_M_050_2LV-JOB_MIX_RCT_NONMEM&referNonce=b99f6270a30d60274bba&",
+      "description": "용인 부속의원 의료기사(임상병리사) 채용 에스케이하이닉스(주) 경기 용인시 경력무관 ~10.21(수) 스크랩"
+    },
+    {
+      "id": "clinical-3367202078258111713",
+      "title": "(재)에스디의학연구소 병리과 임상병리사 채용 경기 용인시 기흥구 경력2년↑ 초대졸↑ 재단법인 에스디 의학연구소 기업이미지 ~11.14(토)",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "경기",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55295889&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "(재)에스디의학연구소 병리과 임상병리사 채용 경기 용인시 기흥구 경력2년↑ 초대졸↑ 재단법인 에스디 의학연구소 기업이미지 ~11.14(토) 스크랩 입사지원"
+    },
+    {
+      "id": "clinical-1100076124016450747",
+      "title": "합격 시 50만원 병리과 세포병리사 경력직 모집 경기 성남시 수정구 경력3년↑ 대졸↑ (의)엔티엘의료재단 기업이미지 D-2",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -42,43 +74,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55076634&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "합격 시 50만원 병리과 세포병리사 경력직 모집 경기 성남시 수정구 경력3년↑ 대졸↑ (의)엔티엘의료재단 기업이미지 D-3 스크랩 입사지원"
+      "description": "합격 시 50만원 병리과 세포병리사 경력직 모집 경기 성남시 수정구 경력3년↑ 대졸↑ (의)엔티엘의료재단 기업이미지 D-2 스크랩 입사지원"
     },
     {
-      "id": "clinical-6902393993824130389",
-      "title": "수면기사/임상병리사 경력무관 채용 - 정규직 서울 강남구 문화생활비 서울스페셜수면의원 기업이미지 ~11.12(목)",
-      "organization": "사람인",
-      "category": "clinical",
-      "track": "clinical",
-      "region": "서울",
-      "employmentType": "임상병리",
-      "postedAt": "",
-      "deadline": "",
-      "status": "unknown",
-      "source": "사람인 임상병리",
-      "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55277727&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "수면기사/임상병리사 경력무관 채용 - 정규직 서울 강남구 문화생활비 서울스페셜수면의원 기업이미지 ~11.12(목) 스크랩 입사지원"
-    },
-    {
-      "id": "clinical-9021789500049279444",
-      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (동대문) 서울 성동구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시",
-      "organization": "사람인",
-      "category": "clinical",
-      "track": "clinical",
-      "region": "서울",
-      "employmentType": "임상병리",
-      "postedAt": "",
-      "deadline": "",
-      "status": "unknown",
-      "source": "사람인 임상병리",
-      "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55101634&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (동대문) 서울 성동구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
-    },
-    {
-      "id": "clinical-8015986651253583391",
-      "title": "진단검사실 직원 채용합니다. 경기 화성시 경력 2~10년 초대졸↑ 나이스병원 ~11.12(목)",
+      "id": "clinical-2274094606651135330",
+      "title": "의료 지원 TOP100 용인 부속의원 의료기사(임상병리사) 채용 경기 용인시 경력무관 학력무관 에스케이하이닉스(주) 기업이미지 D-6",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -89,11 +89,27 @@
       "status": "unknown",
       "source": "사람인 임상병리",
       "sourceType": "job-board",
-      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55273225&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "진단검사실 직원 채용합니다. 경기 화성시 경력 2~10년 초대졸↑ 나이스병원 ~11.12(목) 스크랩 입사지원"
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55286493&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "의료 지원 TOP100 용인 부속의원 의료기사(임상병리사) 채용 경기 용인시 경력무관 학력무관 에스케이하이닉스(주) 기업이미지 D-6 스크랩 자소서 문항"
     },
     {
-      "id": "clinical-2845621958831872518",
+      "id": "clinical-3618455363684995290",
+      "title": "자소서 문항",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "경기",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55286493&t_category=top1000&t_content=generic&tab=introduce",
+      "description": "의료 지원 TOP100 용인 부속의원 의료기사(임상병리사) 채용 경기 용인시 경력무관 학력무관 에스케이하이닉스(주) 기업이미지 D-6 스크랩 자소서 문항"
+    },
+    {
+      "id": "clinical-5316247551017881371",
       "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (동부산) 경남 양산시 외 신입 학력무관 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -109,8 +125,56 @@
       "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (동부산) 경남 양산시 외 신입 학력무관 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-5872181685667458812",
-      "title": "의료 스크랩 TOP100 임상병리사 채용 공고 경남 창원시 의창구 경력무관 초대졸↑ 메트로병원 기업이미지 채용시",
+      "id": "clinical-2618150923511995228",
+      "title": "의료 조회 급상승 수면기사/임상병리사 경력무관 채용 - 정규직 서울 강남구 문화생활비 서울스페셜수면의원 기업이미지 ~11.12(목)",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "서울",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55277727&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "의료 조회 급상승 수면기사/임상병리사 경력무관 채용 - 정규직 서울 강남구 문화생활비 서울스페셜수면의원 기업이미지 ~11.12(목) 스크랩 입사지원"
+    },
+    {
+      "id": "clinical-411961709629921867",
+      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (동대문) 서울 성동구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "서울",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55101634&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (동대문) 서울 성동구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+    },
+    {
+      "id": "clinical-57657624138949090",
+      "title": "진단검사실 직원 채용합니다. 경기 화성시 경력 2~10년 초대졸↑ 나이스병원 ~11.12(목)",
+      "organization": "사람인",
+      "category": "clinical",
+      "track": "clinical",
+      "region": "경기",
+      "employmentType": "임상병리",
+      "postedAt": "",
+      "deadline": "",
+      "status": "unknown",
+      "source": "사람인 임상병리",
+      "sourceType": "job-board",
+      "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55273225&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
+      "description": "진단검사실 직원 채용합니다. 경기 화성시 경력 2~10년 초대졸↑ 나이스병원 ~11.12(목) 스크랩 입사지원"
+    },
+    {
+      "id": "clinical-7000244422907348821",
+      "title": "임상병리사 채용 공고 경남 창원시 의창구 경력무관 초대졸↑ 메트로병원 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -122,10 +186,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55269075&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "의료 스크랩 TOP100 임상병리사 채용 공고 경남 창원시 의창구 경력무관 초대졸↑ 메트로병원 기업이미지 채용시 스크랩 입사지원"
+      "description": "임상병리사 채용 공고 경남 창원시 의창구 경력무관 초대졸↑ 메트로병원 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-2971598398261924647",
+      "id": "clinical-2141835074256568144",
       "title": "파트타임(시간제) 임상병리사 선생님을 모십니다. 경기 수원시 팔달구 경력3년↑ 초대졸↑ 에이블병원 기업이미지 ~11.12(목)",
       "organization": "사람인",
       "category": "clinical",
@@ -141,7 +205,7 @@
       "description": "파트타임(시간제) 임상병리사 선생님을 모십니다. 경기 수원시 팔달구 경력3년↑ 초대졸↑ 에이블병원 기업이미지 ~11.12(목) 스크랩 입사지원"
     },
     {
-      "id": "clinical-9206825217473037486",
+      "id": "clinical-3814732222858037159",
       "title": "임상병리사 채용함. 전남광주 북구 점심식사 제공 엔탑이비인후과병원 ~11.05(목)",
       "organization": "사람인",
       "category": "clinical",
@@ -157,7 +221,7 @@
       "description": "임상병리사 채용함. 전남광주 북구 점심식사 제공 엔탑이비인후과병원 ~11.05(목) 스크랩 입사지원"
     },
     {
-      "id": "clinical-2584090095701213580",
+      "id": "clinical-7370250830448464174",
       "title": "SMC 세민병원 임상병리사 직원채용 울산 중구 의료비지원(가족) (의)에스엠씨의료재단 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -173,7 +237,7 @@
       "description": "SMC 세민병원 임상병리사 직원채용 울산 중구 의료비지원(가족) (의)에스엠씨의료재단 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-3041092119177616774",
+      "id": "clinical-4776323054318807433",
       "title": "[문산중앙병원] 임상병리사 모집합니다 [신입직] 경기 파주시 기숙사 운영 (의)강영의료재단 기업이미지 ~11.09(월)",
       "organization": "사람인",
       "category": "clinical",
@@ -189,7 +253,7 @@
       "description": "[문산중앙병원] 임상병리사 모집합니다 [신입직] 경기 파주시 기숙사 운영 (의)강영의료재단 기업이미지 ~11.09(월) 스크랩 입사지원"
     },
     {
-      "id": "clinical-7568707707431014128",
+      "id": "clinical-6339619624681770952",
       "title": "[녹십자 그룹] GC셀 임상병리사 모집 (인천, 계약직) 인천 계양구 경력무관 초대졸↑ (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -205,7 +269,7 @@
       "description": "[녹십자 그룹] GC셀 임상병리사 모집 (인천, 계약직) 인천 계양구 경력무관 초대졸↑ (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-6822028913286491385",
+      "id": "clinical-3183031460716702977",
       "title": "[녹십자 그룹] GC셀 임상병리사 모집 (부천, 계약직) 경기 부천시 원미구 경력무관 초대졸↑ (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -221,7 +285,7 @@
       "description": "[녹십자 그룹] GC셀 임상병리사 모집 (부천, 계약직) 경기 부천시 원미구 경력무관 초대졸↑ (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-2031074542861699818",
+      "id": "clinical-8725809236800026236",
       "title": "[인천][부평]청각사 청능사 임상병리사 신입/경력 채용 인천 부평구 경력무관 초대졸↑ 부평뱅뱅이비인후과 기업이미지 ~12.07(월)",
       "organization": "사람인",
       "category": "clinical",
@@ -237,7 +301,7 @@
       "description": "[인천][부평]청각사 청능사 임상병리사 신입/경력 채용 인천 부평구 경력무관 초대졸↑ 부평뱅뱅이비인후과 기업이미지 ~12.07(월) 스크랩 입사지원"
     },
     {
-      "id": "clinical-2622324251597672979",
+      "id": "clinical-9019792150803099288",
       "title": "수성요양병원에서 임상병리사 선생님 모십니다 대구 수성구 경력무관 대졸↑ 수성요양병원 기업이미지 ~11.05(목)",
       "organization": "사람인",
       "category": "clinical",
@@ -253,7 +317,7 @@
       "description": "수성요양병원에서 임상병리사 선생님 모십니다 대구 수성구 경력무관 대졸↑ 수성요양병원 기업이미지 ~11.05(목) 스크랩 입사지원"
     },
     {
-      "id": "clinical-5498113562003777249",
+      "id": "clinical-4528584192189558908",
       "title": "임상병리사 정규직 채용합니다 .인원충원1명,신졸/경력1-2년 대구 수성구 경력무관 초대졸↑ 오희종신경과 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -269,8 +333,8 @@
       "description": "임상병리사 정규직 채용합니다 .인원충원1명,신졸/경력1-2년 대구 수성구 경력무관 초대졸↑ 오희종신경과 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-2906606087537214276",
-      "title": "의료 지원 급상승 [녹십자 그룹] GC셀 임상병리사 모집 (성북, 계약직) 서울 성북구 경력무관 초대졸↑ (주)지씨셀 기업이미지 채용시",
+      "id": "clinical-4031215630566342813",
+      "title": "의료 스크랩 급상승 [녹십자 그룹] GC셀 임상병리사 모집 (성북, 계약직) 서울 성북구 경력무관 초대졸↑ (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -282,11 +346,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55050858&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "의료 지원 급상승 [녹십자 그룹] GC셀 임상병리사 모집 (성북, 계약직) 서울 성북구 경력무관 초대졸↑ (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+      "description": "의료 스크랩 급상승 [녹십자 그룹] GC셀 임상병리사 모집 (성북, 계약직) 서울 성북구 경력무관 초대졸↑ (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-2396279128672909699",
-      "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (포항) 경북 포항시 남구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시",
+      "id": "clinical-8923125629998262602",
+      "title": "의료 지원 급상승 [녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (포항) 경북 포항시 남구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -298,10 +362,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55055276&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (포항) 경북 포항시 남구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
+      "description": "의료 지원 급상승 [녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (포항) 경북 포항시 남구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-295455312972985254",
+      "id": "clinical-6119489682153433859",
       "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (광주) 전남광주 북구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -317,7 +381,7 @@
       "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (광주) 전남광주 북구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-2258254968565882312",
+      "id": "clinical-1227169384208720993",
       "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (청라) 인천 서해구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -333,7 +397,7 @@
       "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (청라) 인천 서해구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-6055318244840738970",
+      "id": "clinical-5116197073361099057",
       "title": "오산 세교 수면다원검사를 진행할 임상병리사분을 모십니다 경기 오산시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~11.28(토)",
       "organization": "사람인",
       "category": "clinical",
@@ -349,7 +413,7 @@
       "description": "오산 세교 수면다원검사를 진행할 임상병리사분을 모십니다 경기 오산시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~11.28(토) 스크랩 입사지원"
     },
     {
-      "id": "clinical-8988724449788781883",
+      "id": "clinical-1637805868159687987",
       "title": "[경력무관] 임상병리사 정규직 추가 모집 전북 군산시 야근수당 전경호이비인후과 ~10.28(수)",
       "organization": "사람인",
       "category": "clinical",
@@ -365,7 +429,7 @@
       "description": "[경력무관] 임상병리사 정규직 추가 모집 전북 군산시 야근수당 전경호이비인후과 ~10.28(수) 스크랩 입사지원"
     },
     {
-      "id": "clinical-9109743419687987963",
+      "id": "clinical-8668323558594210627",
       "title": "[향남두리ENT] 임상병리사 채용합니다. 경기 화성시 상여금 향남두리이비인후과 ~11.27(금)",
       "organization": "사람인",
       "category": "clinical",
@@ -381,8 +445,8 @@
       "description": "[향남두리ENT] 임상병리사 채용합니다. 경기 화성시 상여금 향남두리이비인후과 ~11.27(금) 스크랩 입사지원"
     },
     {
-      "id": "clinical-5085090313080126431",
-      "title": "경기 이천 수면다원검사를 진행할 임상병리사분을 모십니다 경기 이천시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~10.22(목)",
+      "id": "clinical-7129982477057355396",
+      "title": "경기 이천 수면다원검사를 진행할 임상병리사분을 모십니다 경기 이천시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-7",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -394,11 +458,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55100632&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "경기 이천 수면다원검사를 진행할 임상병리사분을 모십니다 경기 이천시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~10.22(목) 스크랩 입사지원"
+      "description": "경기 이천 수면다원검사를 진행할 임상병리사분을 모십니다 경기 이천시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-7 스크랩 입사지원"
     },
     {
-      "id": "clinical-4892657226292159834",
-      "title": "시흥 은계지구 수면다원검사를 진행할 임상병리사분을 모십니다 경기 시흥시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~10.22(목)",
+      "id": "clinical-3942492247426505722",
+      "title": "시흥 은계지구 수면다원검사를 진행할 임상병리사분을 모십니다 경기 시흥시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-7",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -410,11 +474,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55100244&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "시흥 은계지구 수면다원검사를 진행할 임상병리사분을 모십니다 경기 시흥시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 ~10.22(목) 스크랩 입사지원"
+      "description": "시흥 은계지구 수면다원검사를 진행할 임상병리사분을 모십니다 경기 시흥시 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-7 스크랩 입사지원"
     },
     {
-      "id": "clinical-5845814353501425778",
-      "title": "[서초동] 서울안강병원에서 임상병리사를 모집합니다. 서울 서초구 경력무관 학력무관 안강병원 기업이미지 D-7",
+      "id": "clinical-9154595927493352786",
+      "title": "[서초동] 서울안강병원에서 임상병리사를 모집합니다. 서울 서초구 경력무관 학력무관 안강병원 기업이미지 D-6",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -426,11 +490,11 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55092740&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "[서초동] 서울안강병원에서 임상병리사를 모집합니다. 서울 서초구 경력무관 학력무관 안강병원 기업이미지 D-7 스크랩 입사지원"
+      "description": "[서초동] 서울안강병원에서 임상병리사를 모집합니다. 서울 서초구 경력무관 학력무관 안강병원 기업이미지 D-6 스크랩 입사지원"
     },
     {
-      "id": "clinical-3563880718774805683",
-      "title": "인천 남동구 수면다원검사를 진행할 임상병리사분을 모십니다 인천 남동구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-7",
+      "id": "clinical-8839049404864684124",
+      "title": "인천 남동구 수면다원검사를 진행할 임상병리사분을 모십니다 인천 남동구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-6",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -442,10 +506,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55088606&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "인천 남동구 수면다원검사를 진행할 임상병리사분을 모십니다 인천 남동구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-7 스크랩 입사지원"
+      "description": "인천 남동구 수면다원검사를 진행할 임상병리사분을 모십니다 인천 남동구 경력무관 초대졸↑ (주)마이메딕스 기업이미지 D-6 스크랩 입사지원"
     },
     {
-      "id": "clinical-2504603228957008793",
+      "id": "clinical-2835755279937464222",
       "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (목포) 전남광주 목포시 외 신입 학력무관 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -461,8 +525,8 @@
       "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (목포) 전남광주 목포시 외 신입 학력무관 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-5895541089245244864",
-      "title": "합격 시 50만원 홀터 분석 담당 임상병리사 채용(제주) 제주 제주시 외 신입·경력 초대졸↑ (주)씨어스 기업이미지 내일마감",
+      "id": "clinical-8509497371222873975",
+      "title": "합격 시 50만원 홀터 분석 담당 임상병리사 채용(제주) 제주 제주시 외 신입·경력 초대졸↑ (주)씨어스 기업이미지 오늘마감",
       "organization": "사람인",
       "category": "clinical",
       "track": "clinical",
@@ -474,10 +538,10 @@
       "source": "사람인 임상병리",
       "sourceType": "job-board",
       "url": "https://m.saramin.co.kr/job-search/view?rec_idx=55050895&cn=job-industry&cns=recently-list&t_category=job_recruit&t_content=generic&referNonce=",
-      "description": "합격 시 50만원 홀터 분석 담당 임상병리사 채용(제주) 제주 제주시 외 신입·경력 초대졸↑ (주)씨어스 기업이미지 내일마감 스크랩 입사지원"
+      "description": "합격 시 50만원 홀터 분석 담당 임상병리사 채용(제주) 제주 제주시 외 신입·경력 초대졸↑ (주)씨어스 기업이미지 오늘마감 스크랩 입사지원"
     },
     {
-      "id": "clinical-7927493912095139788",
+      "id": "clinical-8506997452603055693",
       "title": "[양천구 목동] 인터메드내과의원 임상병리사 모집 (채혈, 검사) 서울 양천구 경력 초대졸↑ 인터메드내과의원 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -493,7 +557,7 @@
       "description": "[양천구 목동] 인터메드내과의원 임상병리사 모집 (채혈, 검사) 서울 양천구 경력 초대졸↑ 인터메드내과의원 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-56912543554330174",
+      "id": "clinical-6375215130427583850",
       "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (인천) 인천 부평구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
@@ -509,7 +573,7 @@
       "description": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (인천) 인천 부평구 외 신입 학력무관 (주)지씨셀 기업이미지 채용시 스크랩 입사지원"
     },
     {
-      "id": "clinical-2381929181200094385",
+      "id": "clinical-170501948146077494",
       "title": "[녹십자 그룹] GC셀 검체 관리 서비스 매니저 채용 (의정부) 경기 의정부시 외 신입 학력무관 (주)지씨셀 기업이미지 채용시",
       "organization": "사람인",
       "category": "clinical",
